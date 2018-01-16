@@ -1,0 +1,23 @@
+{
+    "coreFilters": [
+                    
+                    {
+                    "coreFilterId": "SoftSkin"
+                    },
+                    
+                    {
+                    "coreFilterId": "Stretch",
+                    "parameters": [
+                                   {
+                                   "id": "deformationName",
+                                   "value": "stretch/goblinFace"
+                                   },
+                                   {
+                                   "id": "goblinFace",
+                                   "value": "1.0"
+                                   }
+                                   ]
+                    
+                    }
+                    ]
+}

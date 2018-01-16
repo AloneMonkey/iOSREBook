@@ -1,0 +1,91 @@
+Blob at offset: 69664 (11152 bytes) is an embedded signature of 6831 bytes, and 5 blobs
+	Blob 0: Type: 0 @52: Code Directory (549 bytes)
+		Version:     20200
+		Flags:       none (0x0)
+		CodeLimit:   0x11020
+		Identifier:  com.alonemonkey.MachODemo (0x34)
+		CDHash:	     62730f7b363d5dff603780add8a747fd531f58ed (computed)
+		# of Hashes: 18 code + 5 special
+		Hashes @189 size: 20 Type: SHA-1
+			Entitlements blob:	1d47df77bb0a96fd6f3a93b41615d8374629baea (OK)
+			Application Specific:	Not Bound
+			Resource Directory:	ac610bab37435171f095cc0498294343ce612f74 (OK)
+			Requirements blob:	a16244ef0692bfde9d64e4016d34631dfc20726e (OK)
+			Bound Info.plist:	56feb13f3d30e56760ea67aad9e2485053ef136e (OK)
+			Slot   0 (File page @0x0000):	7a23927e331b0dbbb7f1146a2735c119e3ef09a2 (OK)
+			Slot   1 (File page @0x1000):	NULL PAGE HASH (OK)
+			Slot   2 (File page @0x2000):	NULL PAGE HASH (OK)
+			Slot   3 (File page @0x3000):	NULL PAGE HASH (OK)
+			Slot   4 (File page @0x4000):	40d7e68d665800808c1b13494a656b1940c76cbc (OK)
+			Slot   5 (File page @0x5000):	85efe6ffca78ca9df1fbd15c2174a9f57c9f81b9 (OK)
+			Slot   6 (File page @0x6000):	5c0b17f621ff7c60b627bb5ffb81089177185f8d (OK)
+			Slot   7 (File page @0x7000):	4a364632286059a8af209d058149ff6e2c9332ba (OK)
+			Slot   8 (File page @0x8000):	0dd0fad73618b459a8c9313f8464bde28acbd793 (OK)
+			Slot   9 (File page @0x9000):	3eaa6832afd2fa2b33d1d8b7122c2ae86fb643de (OK)
+			Slot  10 (File page @0xa000):	NULL PAGE HASH (OK)
+			Slot  11 (File page @0xb000):	NULL PAGE HASH (OK)
+			Slot  12 (File page @0xc000):	72ec8539f458144c61aa3a65ea2294f585fe0027 (OK)
+			Slot  13 (File page @0xd000):	f767b39601bf03b0d94c0f9e444e688d5ccd311e (OK)
+			Slot  14 (File page @0xe000):	023b057dcb474a0fd5805292a8047dd57746ee0b (OK)
+			Slot  15 (File page @0xf000):	39a0309fa87cd7806ad28ad2a188b297a3e3dfab (OK)
+			Slot  16 (File page @0x10000):	363d24fdb38fc4c2ea86621739345b0032bbb18b (OK)
+			Slot  17 (File page @0x11000):	60eb1459ff65769e0680969cc135623df50975b1 (OK)
+	Blob 1: Type: 2 @601: Requirement Set (188 bytes) with 1 requirement:
+	0: Designated Requirement (@20, 156 bytes): SIZE: 156
+		Ident: (com.alonemonkey.MachODemo) AND Apple Generic Anchor
+Cert field
+False Info plist 
+	Blob 2: Type: 5 @789: Entitlements (509 bytes) (use --ent to view)
+	Blob 3: Type: 1000 @1298: Code Directory (825 bytes)
+		Version:     20200
+		Flags:       none (0x0)
+		CodeLimit:   0x11020
+		Identifier:  com.alonemonkey.MachODemo (0x34)
+		CDHash:	     e4af19df354a5da16b24a0140bd628e94be387f2053e165f4471c9c735964337 (computed)
+		# of Hashes: 18 code + 5 special
+		Hashes @249 size: 32 Type: SHA-256
+			Entitlements blob:	2cef4c5d30990fedb6f3224ffae62c31f57569b48902b4dbec154f5242fd50a5 (OK)
+			Application Specific:	0000000000000000000000000000000000000000000000000000000000000000 (NOT YET)
+			Resource Directory:	7264e00c0e93c328d3fc8178610b61aec37c49764afdf246ac31330971ee1928 (OK)
+			Requirements blob:	ac16408bb341366c715dd74720bbeee5e4c05858d56cbcef6bbd116887caed96 (OK)
+			Bound Info.plist:	4845ea6aeab4531bd6b0551e02890eb43c08e7e27bdb947a3639b211b70a78b0 (OK)
+			Slot   0 (File page @0x0000):	077354129631c7138397a13cadda8dfc3a39ca0586c9d0eb3803b7d8f92a32e2 (OK)
+			Slot   1 (File page @0x1000):	ad7facb2586fc6e966c004d7d1d16b024f5805ff7cb47c7a85dabd8b48892ca7 (OK)
+			Slot   2 (File page @0x2000):	ad7facb2586fc6e966c004d7d1d16b024f5805ff7cb47c7a85dabd8b48892ca7 (OK)
+			Slot   3 (File page @0x3000):	ad7facb2586fc6e966c004d7d1d16b024f5805ff7cb47c7a85dabd8b48892ca7 (OK)
+			Slot   4 (File page @0x4000):	1523cff6de6824d0102f992ba047814f044ab8bd111547a504270a504d741388 (OK)
+			Slot   5 (File page @0x5000):	6f8dc370eb660be7239f25889dbc5c104769f6a7a02ddef3f6c15303811ffe51 (OK)
+			Slot   6 (File page @0x6000):	87c481ff35c595656eb3b15adf5b347a3b0471cd2205bf2a73da0b51d5188b8f (OK)
+			Slot   7 (File page @0x7000):	eeb97679b1a699aca72d8370f3aa41e64ac8ce2fc5287a5868264f1fceabffec (OK)
+			Slot   8 (File page @0x8000):	86c97c11e53f34afcf299815b44ec054a3afd985269eab2e0a1caa52f0c309af (OK)
+			Slot   9 (File page @0x9000):	555cadd3885b88245ce0d31aba6542b07875dfa640e072a9d6c30cf85025f322 (OK)
+			Slot  10 (File page @0xa000):	ad7facb2586fc6e966c004d7d1d16b024f5805ff7cb47c7a85dabd8b48892ca7 (OK)
+			Slot  11 (File page @0xb000):	ad7facb2586fc6e966c004d7d1d16b024f5805ff7cb47c7a85dabd8b48892ca7 (OK)
+			Slot  12 (File page @0xc000):	d17b832e15e733a104d42ed443a650b74c8a541ecfda1f2a8de4bbeec745846d (OK)
+			Slot  13 (File page @0xd000):	bc7a684e796bf8e8c08a63df2e2ed037982ea05069da82daea9c81a16daca672 (OK)
+			Slot  14 (File page @0xe000):	2e5daca03051d94cc4d1b818c4e08df1a41434ff5fc58b8e43582723a9f0a7ce (OK)
+			Slot  15 (File page @0xf000):	b4165715717fb45e35d5eb508194ec92f66c17d38021664017d23bdf56d71940 (OK)
+			Slot  16 (File page @0x10000):	47e8159d1b38bd6066e91b4640ea2a7731f55adb0be28563c2f6fa8a904ad024 (OK)
+			Slot  17 (File page @0x11000):	5ec5f4ab77c14bacba1ee195caa0e027594e6a6a1fc802a88bfc155576999bcc (OK)
+	Blob 4: Type: 10000 @2123: Blob Wrapper (4708 bytes) (0x10000 is CMS (RFC3852) signature)
+CA: Apple Certification Authority CN: Apple Root CA
+CA: Apple Worldwide Developer Relations CN: Apple Worldwide Developer Relations Certification Authority
+CA: Apple Certification Authority CN: Apple Root CA
+CA: Apple Certification Authority CN: Apple Root CA
+Time: 170903041547Z
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>9XQEPG2J2J.com.alonemonkey.MachODemo</string>
+	<key>com.apple.developer.team-identifier</key>
+	<string>9XQEPG2J2J</string>
+	<key>get-task-allow</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>9XQEPG2J2J.com.alonemonkey.MachODemo</string>
+	</array>
+</dict>
+</plist>

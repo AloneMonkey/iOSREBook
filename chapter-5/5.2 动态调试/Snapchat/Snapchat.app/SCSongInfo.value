@@ -1,0 +1,9 @@
+interface SCSongInfo
+    NSString *songTitle
+    NSString *artistName
+    NSString *artistImageURL
+    NSString *highDefImageUrl
+    NSString *songURL
+    NSDate *recordDate
+    NSString *genre
+end

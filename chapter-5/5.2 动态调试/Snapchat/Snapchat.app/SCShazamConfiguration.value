@@ -1,0 +1,13 @@
+interface SCShazamConfiguration
+    BOOL enableFrontFacing;
+    BOOL enableAndroidPassive;
+    float androidPassiveOffset;
+    float rollingWindowLength;
+    float initialStartDelay;
+    float sendInterval;
+    BOOL sendOnFinish;
+    float minVolumeThreshold;
+    BOOL enable;
+    NSString *token;
+    float artistListFetchDelaySec;
+end

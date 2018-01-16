@@ -1,0 +1,45 @@
+{
+	"coreFilters": [{
+					"coreFilterId": "Histogram",
+					"parameters": [{
+									"id": "gamma",
+									"value": "0.85"
+									},
+									{
+									"id": "gammaIntensity",
+									"value": "0.5"
+									},
+									{
+									"id": "faceIndex",
+									"value": "0"
+									},
+									{
+									"id": "desaturate",
+									"value": "0.1"
+									}]
+					},
+					{
+					"coreFilterId": "Smoothing",
+					"parameters": [{
+									"id": "unsharpAmount",
+									"value": "0.01"
+									},
+									{
+									"id": "amount",
+									"value": "0.8"
+									},
+									{
+									"id": "unsharpThreshold",
+									"value": "1.7"
+									},
+									{
+									"id": "name",
+									"value": "natural"
+									},
+									{
+									"id": "faceIndex",
+									"value": "0"
+									}]
+					}]
+}
+

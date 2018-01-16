@@ -1,0 +1,2 @@
+*.ipa filter=lfs diff=lfs merge=lfs -text
+Snapchat.app filter=lfs diff=lfs merge=lfs -text

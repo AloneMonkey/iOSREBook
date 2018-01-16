@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>code</key>
+		<string>original</string>
+	</dict>
+	<dict>
+		<key>filterId</key>
+		<string>4845552184344576</string>
+		<key>code</key>
+		<string>pear_face</string>
+		<key>signature</key>
+		<string>MGUCMEi3hq0BkIKum0Z/eKtbcjLWupjol9bG8dyr0vtfvS+CLoU8affhSOnF8Dge0XyZGwIxAKQjBOJw9GTw1KkpjxnDnhIXW48z7pZtLVl37B/jGOzPrBslnv9YV8RLA/9o2VIQIw==</string>
+	</dict>
+	<dict>
+		<key>filterId</key>
+		<string>4852032379568128</string>
+		<key>icon_link</key>
+		<string>https://geofilter.storage.googleapis.com/png/c4a78a3c-1b49-46ae-9b2f-98297dff0508</string>
+		<key>lens_link</key>
+		<string>https://geofilter.storage.googleapis.com/zip/bc2be390-a2de-4fc6-a1d6-5217de5f0239</string>
+		<key>code</key>
+		<string>birthday</string>
+		<key>signature</key>
+		<string>MGYCMQC3UbbGVMxIysoG2pPENoj/qzW/nBFnW8ZUPaTa8yXjz4WAxP/SFFYYUZeza7KHzsACMQCAAQXZJZBIIZDi7UfBzPYVAB0gL8GrD54k8971R713NS3Wv7g93sJFzcfl8q1ZK60=</string>
+	</dict>
+	<dict>
+		<key>filterId</key>
+		<string>4955261652779008</string>
+		<key>code</key>
+		<string>smoothing_filter</string>
+		<key>signature</key>
+		<string>MGUCMFYQf7XAYJnRv3+CCINXClC6J6c+zmdErEkjcN7A3AEhEUATipFGIo+U+krSUjjFfQIxAPeCaE3vJsqazbPSiXA5ZY66CxT1JkNP/u7h5nO4bmodNcOX1Dgm4tXysCrVfZMbxw==</string>
+	</dict>
+	<dict>
+		<key>filterId</key>
+		<string>5552289269235712</string>
+		<key>code</key>
+		<string>warming_filter</string>
+		<key>signature</key>
+		<string>MGQCMHR/QgcPwHuZEQrizIJ+tlOV/YBHfvKsWJYfHXP7lwIUhJjkadGQX0CaRR4E4ukWwgIwUGnghP0M43Rcuh+5t8yQf+2vAlSr837Pqi5oiNDoZXuYwveuEC9h3VkCVqMsOCol</string>
+	</dict>
+	<dict>
+		<key>filterId</key>
+		<string>6213293594099712</string>
+		<key>code</key>
+		<string>video_chat</string>
+		<key>signature</key>
+		<string>MGUCMAgEtf4vb+joP29hV8coEqJ+KFXrCimE6fEmfa1nGIx/G6pSMQVZKo+cvhlQcCTKJQIxAI6TV4LSbftvkE96tbwvQ56KHShplBD0GbhE0J7/fsCM4xtNSFLaFiuHgOsggmeD+w==</string>
+	</dict>
+</array>
+</plist>

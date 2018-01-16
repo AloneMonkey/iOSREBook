@@ -1,0 +1,2 @@
+/* These values are copied from Chrome's .xtb files, this is so the same values are used in the |Accept-Language| header. Key name matches Chrome's. */
+"IDS_ACCEPT_LANGUAGES" = "cs-CZ,cs";

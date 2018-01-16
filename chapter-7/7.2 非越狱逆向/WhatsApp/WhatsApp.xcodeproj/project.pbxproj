@@ -1,0 +1,721 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		65EB491CC375F3A19932CB3D /* Pods_WhatsAppDylib.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F144A53E786E2A9DE037800C /* Pods_WhatsAppDylib.framework */; };
+		863774171F73603A00D88EC9 /* FridaGadget.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 863774161F73603A00D88EC9 /* FridaGadget.dylib */; };
+		863774191F73604500D88EC9 /* FridaGadget.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 863774181F73604500D88EC9 /* FridaGadget.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		8C415A611F6FFCFE00FD250D /* MethodTraceConfig.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8C415A601F6FFCFE00FD250D /* MethodTraceConfig.plist */; };
+		8C415A641F6FFCFE00FD250D /* put ipa or app here in Resources */ = {isa = PBXBuildFile; fileRef = 8C415A631F6FFCFE00FD250D /* put ipa or app here */; };
+		8C415A6C1F6FFCFE00FD250D /* libWhatsAppDylib.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 8C415A6B1F6FFCFE00FD250D /* libWhatsAppDylib.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		8C415A711F6FFCFE00FD250D /* Cycript.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C415A701F6FFCFE00FD250D /* Cycript.framework */; };
+		8C415A731F6FFCFE00FD250D /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C415A721F6FFCFE00FD250D /* JavaScriptCore.framework */; };
+		8C415A751F6FFCFE00FD250D /* RevealServer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C415A741F6FFCFE00FD250D /* RevealServer.framework */; };
+		8C415A771F6FFCFE00FD250D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C415A761F6FFCFE00FD250D /* Foundation.framework */; };
+		8C415A791F6FFCFE00FD250D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C415A781F6FFCFE00FD250D /* UIKit.framework */; };
+		8C415A7D1F6FFCFE00FD250D /* ANYMethodLog.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C415A7C1F6FFCFE00FD250D /* ANYMethodLog.h */; };
+		8C415A7F1F6FFCFE00FD250D /* ANYMethodLog.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C415A7E1F6FFCFE00FD250D /* ANYMethodLog.m */; };
+		8C415A811F6FFCFE00FD250D /* MethodTrace.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C415A801F6FFCFE00FD250D /* MethodTrace.h */; };
+		8C415A831F6FFCFE00FD250D /* MethodTrace.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C415A821F6FFCFE00FD250D /* MethodTrace.m */; };
+		8C415A881F6FFCFE00FD250D /* CaptainHook.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C415A871F6FFCFE00FD250D /* CaptainHook.h */; };
+		8C415A8B1F6FFCFE00FD250D /* AntiAntiDebug.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C415A8A1F6FFCFE00FD250D /* AntiAntiDebug.m */; };
+		8C415A8E1F6FFCFE00FD250D /* fishhook.c in Sources */ = {isa = PBXBuildFile; fileRef = 8C415A8D1F6FFCFE00FD250D /* fishhook.c */; };
+		8C415A901F6FFCFE00FD250D /* fishhook.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C415A8F1F6FFCFE00FD250D /* fishhook.h */; };
+		8C415A931F6FFCFE00FD250D /* WhatsAppDylib.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8C415A921F6FFCFE00FD250D /* WhatsAppDylib.mm */; };
+		8C415A951F6FFCFE00FD250D /* WhatsAppDylib.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C415A941F6FFCFE00FD250D /* WhatsAppDylib.h */; };
+		8C415A971F6FFCFE00FD250D /* WhatsAppDylib.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C415A961F6FFCFE00FD250D /* WhatsAppDylib.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		8C415AA01F70015700FD250D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8C415A521F6FFCFE00FD250D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8C415A6A1F6FFCFE00FD250D;
+			remoteInfo = WhatsAppDylib;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		8C415A5A1F6FFCFE00FD250D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				863774191F73604500D88EC9 /* FridaGadget.dylib in CopyFiles */,
+				8C415A6C1F6FFCFE00FD250D /* libWhatsAppDylib.dylib in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		863774161F73603A00D88EC9 /* FridaGadget.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = FridaGadget.dylib; sourceTree = "<group>"; };
+		863774181F73604500D88EC9 /* FridaGadget.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = FridaGadget.dylib; sourceTree = "<group>"; };
+		8B508B95413E47115AF8A944 /* Pods-WhatsAppDylib.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WhatsAppDylib.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WhatsAppDylib/Pods-WhatsAppDylib.debug.xcconfig"; sourceTree = "<group>"; };
+		8C415A5D1F6FFCFE00FD250D /* WhatsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WhatsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8C415A601F6FFCFE00FD250D /* MethodTraceConfig.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = MethodTraceConfig.plist; sourceTree = "<group>"; };
+		8C415A631F6FFCFE00FD250D /* put ipa or app here */ = {isa = PBXFileReference; lastKnownFileType = text; name = "put ipa or app here"; path = "TargetApp/put ipa or app here"; sourceTree = "<group>"; };
+		8C415A651F6FFCFE00FD250D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8C415A6B1F6FFCFE00FD250D /* libWhatsAppDylib.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = libWhatsAppDylib.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		8C415A701F6FFCFE00FD250D /* Cycript.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cycript.framework; path = Library/Frameworks/Cycript.framework; sourceTree = DEVELOPER_DIR; };
+		8C415A721F6FFCFE00FD250D /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		8C415A741F6FFCFE00FD250D /* RevealServer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RevealServer.framework; path = Library/Frameworks/RevealServer.framework; sourceTree = DEVELOPER_DIR; };
+		8C415A761F6FFCFE00FD250D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		8C415A781F6FFCFE00FD250D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		8C415A7C1F6FFCFE00FD250D /* ANYMethodLog.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ANYMethodLog.h; path = MethodTrace/ANYMethodLog.h; sourceTree = "<group>"; };
+		8C415A7E1F6FFCFE00FD250D /* ANYMethodLog.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = ANYMethodLog.m; path = MethodTrace/ANYMethodLog.m; sourceTree = "<group>"; };
+		8C415A801F6FFCFE00FD250D /* MethodTrace.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = MethodTrace.h; path = MethodTrace/MethodTrace.h; sourceTree = "<group>"; };
+		8C415A821F6FFCFE00FD250D /* MethodTrace.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = MethodTrace.m; path = MethodTrace/MethodTrace.m; sourceTree = "<group>"; };
+		8C415A851F6FFCFE00FD250D /* WhatsAppDylib-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WhatsAppDylib-Prefix.pch"; sourceTree = "<group>"; };
+		8C415A871F6FFCFE00FD250D /* CaptainHook.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = CaptainHook.h; path = CaptainHook/CaptainHook.h; sourceTree = "<group>"; };
+		8C415A8A1F6FFCFE00FD250D /* AntiAntiDebug.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AntiAntiDebug.m; path = AntiAntiDebug/AntiAntiDebug.m; sourceTree = "<group>"; };
+		8C415A8D1F6FFCFE00FD250D /* fishhook.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = fishhook.c; path = fishhook/fishhook.c; sourceTree = "<group>"; };
+		8C415A8F1F6FFCFE00FD250D /* fishhook.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = fishhook.h; path = fishhook/fishhook.h; sourceTree = "<group>"; };
+		8C415A911F6FFCFE00FD250D /* WhatsAppDylib.xm */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; path = WhatsAppDylib.xm; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		8C415A921F6FFCFE00FD250D /* WhatsAppDylib.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = WhatsAppDylib.mm; sourceTree = "<group>"; };
+		8C415A941F6FFCFE00FD250D /* WhatsAppDylib.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WhatsAppDylib.h; sourceTree = "<group>"; };
+		8C415A961F6FFCFE00FD250D /* WhatsAppDylib.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WhatsAppDylib.m; sourceTree = "<group>"; };
+		9A31A0167031AA017BFABDBA /* Pods-WhatsAppDylib.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WhatsAppDylib.release.xcconfig"; path = "Pods/Target Support Files/Pods-WhatsAppDylib/Pods-WhatsAppDylib.release.xcconfig"; sourceTree = "<group>"; };
+		F144A53E786E2A9DE037800C /* Pods_WhatsAppDylib.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WhatsAppDylib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8C415A571F6FFCFE00FD250D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8C415A681F6FFCFE00FD250D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				863774171F73603A00D88EC9 /* FridaGadget.dylib in Frameworks */,
+				8C415A731F6FFCFE00FD250D /* JavaScriptCore.framework in Frameworks */,
+				8C415A751F6FFCFE00FD250D /* RevealServer.framework in Frameworks */,
+				8C415A711F6FFCFE00FD250D /* Cycript.framework in Frameworks */,
+				8C415A771F6FFCFE00FD250D /* Foundation.framework in Frameworks */,
+				8C415A791F6FFCFE00FD250D /* UIKit.framework in Frameworks */,
+				65EB491CC375F3A19932CB3D /* Pods_WhatsAppDylib.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		32F980D3199A29B18F6B421F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				8B508B95413E47115AF8A944 /* Pods-WhatsAppDylib.debug.xcconfig */,
+				9A31A0167031AA017BFABDBA /* Pods-WhatsAppDylib.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		8C415A511F6FFCFE00FD250D = {
+			isa = PBXGroup;
+			children = (
+				863774181F73604500D88EC9 /* FridaGadget.dylib */,
+				8C415A5F1F6FFCFE00FD250D /* WhatsApp */,
+				8C415A7A1F6FFCFE00FD250D /* WhatsAppDylib */,
+				8C415A6F1F6FFCFE00FD250D /* Frameworks */,
+				8C415A5E1F6FFCFE00FD250D /* Products */,
+				32F980D3199A29B18F6B421F /* Pods */,
+			);
+			sourceTree = "<group>";
+		};
+		8C415A5E1F6FFCFE00FD250D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8C415A5D1F6FFCFE00FD250D /* WhatsApp.app */,
+				8C415A6B1F6FFCFE00FD250D /* libWhatsAppDylib.dylib */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8C415A5F1F6FFCFE00FD250D /* WhatsApp */ = {
+			isa = PBXGroup;
+			children = (
+				8C415A601F6FFCFE00FD250D /* MethodTraceConfig.plist */,
+				8C415A651F6FFCFE00FD250D /* Info.plist */,
+				8C415A621F6FFCFE00FD250D /* TargetApp */,
+			);
+			path = WhatsApp;
+			sourceTree = "<group>";
+		};
+		8C415A621F6FFCFE00FD250D /* TargetApp */ = {
+			isa = PBXGroup;
+			children = (
+				8C415A631F6FFCFE00FD250D /* put ipa or app here */,
+			);
+			name = TargetApp;
+			sourceTree = "<group>";
+		};
+		8C415A6F1F6FFCFE00FD250D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				863774161F73603A00D88EC9 /* FridaGadget.dylib */,
+				8C415A701F6FFCFE00FD250D /* Cycript.framework */,
+				8C415A721F6FFCFE00FD250D /* JavaScriptCore.framework */,
+				8C415A741F6FFCFE00FD250D /* RevealServer.framework */,
+				8C415A761F6FFCFE00FD250D /* Foundation.framework */,
+				8C415A781F6FFCFE00FD250D /* UIKit.framework */,
+				F144A53E786E2A9DE037800C /* Pods_WhatsAppDylib.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8C415A7A1F6FFCFE00FD250D /* WhatsAppDylib */ = {
+			isa = PBXGroup;
+			children = (
+				8C415A911F6FFCFE00FD250D /* WhatsAppDylib.xm */,
+				8C415A921F6FFCFE00FD250D /* WhatsAppDylib.mm */,
+				8C415A941F6FFCFE00FD250D /* WhatsAppDylib.h */,
+				8C415A961F6FFCFE00FD250D /* WhatsAppDylib.m */,
+				8C415A7B1F6FFCFE00FD250D /* MethodTrace */,
+				8C415A861F6FFCFE00FD250D /* CaptainHook */,
+				8C415A891F6FFCFE00FD250D /* AntiAntiDebug */,
+				8C415A8C1F6FFCFE00FD250D /* fishhook */,
+				8C415A841F6FFCFE00FD250D /* Supporting Files */,
+			);
+			path = WhatsAppDylib;
+			sourceTree = "<group>";
+		};
+		8C415A7B1F6FFCFE00FD250D /* MethodTrace */ = {
+			isa = PBXGroup;
+			children = (
+				8C415A7C1F6FFCFE00FD250D /* ANYMethodLog.h */,
+				8C415A7E1F6FFCFE00FD250D /* ANYMethodLog.m */,
+				8C415A801F6FFCFE00FD250D /* MethodTrace.h */,
+				8C415A821F6FFCFE00FD250D /* MethodTrace.m */,
+			);
+			name = MethodTrace;
+			sourceTree = "<group>";
+		};
+		8C415A841F6FFCFE00FD250D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8C415A851F6FFCFE00FD250D /* WhatsAppDylib-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8C415A861F6FFCFE00FD250D /* CaptainHook */ = {
+			isa = PBXGroup;
+			children = (
+				8C415A871F6FFCFE00FD250D /* CaptainHook.h */,
+			);
+			name = CaptainHook;
+			sourceTree = "<group>";
+		};
+		8C415A891F6FFCFE00FD250D /* AntiAntiDebug */ = {
+			isa = PBXGroup;
+			children = (
+				8C415A8A1F6FFCFE00FD250D /* AntiAntiDebug.m */,
+			);
+			name = AntiAntiDebug;
+			sourceTree = "<group>";
+		};
+		8C415A8C1F6FFCFE00FD250D /* fishhook */ = {
+			isa = PBXGroup;
+			children = (
+				8C415A8D1F6FFCFE00FD250D /* fishhook.c */,
+				8C415A8F1F6FFCFE00FD250D /* fishhook.h */,
+			);
+			name = fishhook;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		8C415A691F6FFCFE00FD250D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C415A951F6FFCFE00FD250D /* WhatsAppDylib.h in Headers */,
+				8C415A7D1F6FFCFE00FD250D /* ANYMethodLog.h in Headers */,
+				8C415A881F6FFCFE00FD250D /* CaptainHook.h in Headers */,
+				8C415A811F6FFCFE00FD250D /* MethodTrace.h in Headers */,
+				8C415A901F6FFCFE00FD250D /* fishhook.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		8C415A5C1F6FFCFE00FD250D /* WhatsApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8C415A9D1F6FFCFE00FD250D /* Build configuration list for PBXNativeTarget "WhatsApp" */;
+			buildPhases = (
+				8C415A561F6FFCFE00FD250D /* Sources */,
+				8C415A571F6FFCFE00FD250D /* Frameworks */,
+				8C415A581F6FFCFE00FD250D /* ShellScript */,
+				8C415A591F6FFCFE00FD250D /* Resources */,
+				8C415A5A1F6FFCFE00FD250D /* CopyFiles */,
+				8C415A5B1F6FFCFE00FD250D /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8C415AA11F70015700FD250D /* PBXTargetDependency */,
+			);
+			name = WhatsApp;
+			productName = WhatsApp;
+			productReference = 8C415A5D1F6FFCFE00FD250D /* WhatsApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8C415A6A1F6FFCFE00FD250D /* WhatsAppDylib */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8C415A9A1F6FFCFE00FD250D /* Build configuration list for PBXNativeTarget "WhatsAppDylib" */;
+			buildPhases = (
+				57916AF47C598C2C10C78978 /* [CP] Check Pods Manifest.lock */,
+				8C415A661F6FFCFE00FD250D /* ShellScript */,
+				8C415A671F6FFCFE00FD250D /* Sources */,
+				8C415A681F6FFCFE00FD250D /* Frameworks */,
+				8C415A691F6FFCFE00FD250D /* Headers */,
+				6C58C0FE2C2D7FDE27CF02BA /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WhatsAppDylib;
+			productName = WhatsAppDylib;
+			productReference = 8C415A6B1F6FFCFE00FD250D /* libWhatsAppDylib.dylib */;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8C415A521F6FFCFE00FD250D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0900;
+				ORGANIZATIONNAME = Coder;
+				TargetAttributes = {
+					8C415A5C1F6FFCFE00FD250D = {
+						CreatedOnToolsVersion = 9.0;
+					};
+					8C415A6A1F6FFCFE00FD250D = {
+						CreatedOnToolsVersion = 9.0;
+					};
+				};
+			};
+			buildConfigurationList = 8C415A551F6FFCFE00FD250D /* Build configuration list for PBXProject "WhatsApp" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8C415A511F6FFCFE00FD250D;
+			productRefGroup = 8C415A5E1F6FFCFE00FD250D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8C415A5C1F6FFCFE00FD250D /* WhatsApp */,
+				8C415A6A1F6FFCFE00FD250D /* WhatsAppDylib */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8C415A591F6FFCFE00FD250D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C415A641F6FFCFE00FD250D /* put ipa or app here in Resources */,
+				8C415A611F6FFCFE00FD250D /* MethodTraceConfig.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		57916AF47C598C2C10C78978 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-WhatsAppDylib-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		6C58C0FE2C2D7FDE27CF02BA /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-WhatsAppDylib/Pods-WhatsAppDylib-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8C415A581F6FFCFE00FD250D /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = /opt/MonkeyDev/Tools/pack.sh;
+		};
+		8C415A5B1F6FFCFE00FD250D /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/opt/MonkeyDev/Tools/pack.sh codesign";
+		};
+		8C415A661F6FFCFE00FD250D /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/opt/MonkeyDev/bin/md --xcbp-logos";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8C415A561F6FFCFE00FD250D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8C415A671F6FFCFE00FD250D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C415A971F6FFCFE00FD250D /* WhatsAppDylib.m in Sources */,
+				8C415A931F6FFCFE00FD250D /* WhatsAppDylib.mm in Sources */,
+				8C415A8B1F6FFCFE00FD250D /* AntiAntiDebug.m in Sources */,
+				8C415A831F6FFCFE00FD250D /* MethodTrace.m in Sources */,
+				8C415A8E1F6FFCFE00FD250D /* fishhook.c in Sources */,
+				8C415A7F1F6FFCFE00FD250D /* ANYMethodLog.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8C415AA11F70015700FD250D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8C415A6A1F6FFCFE00FD250D /* WhatsAppDylib */;
+			targetProxy = 8C415AA01F70015700FD250D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		8C415A981F6FFCFE00FD250D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		8C415A991F6FFCFE00FD250D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8C415A9B1F6FFCFE00FD250D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8B508B95413E47115AF8A944 /* Pods-WhatsAppDylib.debug.xcconfig */;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 9XQEPG2J2J;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				ENABLE_BITCODE = NO;
+				EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "*.nib *.lproj *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj";
+				EXECUTABLE_PREFIX = lib;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(MonkeyDevPath)/Frameworks/**",
+					"$(MonkeyDevPath)/Librarys/**",
+					"$(MonkeyDevTheosPath)/vendor/lib",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WhatsAppDylib/WhatsAppDylib-Prefix.pch";
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(MonkeyDevPath)/include",
+					"$(MonkeyDevTheosPath)/vendor/include/**",
+				);
+				INSTALL_PATH = "@executable_path/Frameworks/libWhatsAppDylib.dylib";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(MonkeyDevPath)/Frameworks",
+					"$(MonkeyDevTheosPath)/vendor/lib/**",
+					"$(PROJECT_DIR)",
+				);
+				MonkeyDevPath = /opt/MonkeyDev;
+				MonkeyDevTheosPath = /opt/theos;
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-DTHEOS_INSTANCE_NAME=\"\\\"WhatsAppDylib\\\"\"",
+				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-weak_library",
+					"/usr/lib/libc++.dylib",
+					"-weak_library",
+					"/usr/lib/libstdc++.dylib",
+					"-lsubstrate",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = NO;
+			};
+			name = Debug;
+		};
+		8C415A9C1F6FFCFE00FD250D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9A31A0167031AA017BFABDBA /* Pods-WhatsAppDylib.release.xcconfig */;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEVELOPMENT_TEAM = 9XQEPG2J2J;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				ENABLE_BITCODE = NO;
+				EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "*.nib *.lproj *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj";
+				EXECUTABLE_PREFIX = lib;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(MonkeyDevPath)/Frameworks/**",
+					"$(MonkeyDevPath)/Librarys/**",
+					"$(MonkeyDevTheosPath)/vendor/lib",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WhatsAppDylib/WhatsAppDylib-Prefix.pch";
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(MonkeyDevPath)/include",
+					"$(MonkeyDevTheosPath)/vendor/include/**",
+				);
+				INSTALL_PATH = "@executable_path/Frameworks/libWhatsAppDylib.dylib";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(MonkeyDevPath)/Frameworks",
+					"$(MonkeyDevTheosPath)/vendor/lib/**",
+					"$(PROJECT_DIR)",
+				);
+				MonkeyDevPath = /opt/MonkeyDev;
+				MonkeyDevTheosPath = /opt/theos;
+				OTHER_CFLAGS = (
+					"$(inherited)",
+					"-DTHEOS_INSTANCE_NAME=\"\\\"WhatsAppDylib\\\"\"",
+				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-weak_library",
+					"/usr/lib/libc++.dylib",
+					"-weak_library",
+					"/usr/lib/libstdc++.dylib",
+					"-lsubstrate",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		8C415A9E1F6FFCFE00FD250D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 9XQEPG2J2J;
+				ENABLE_BITCODE = NO;
+				INFOPLIST_FILE = WhatsApp/Info.plist;
+				MONKEYDEV_CLASS_DUMP = YES;
+				MONKEYDEV_RESTORE_SYMBOL = YES;
+				PODS_ROOT = "${SRCROOT}/Pods";
+				PRODUCT_BUNDLE_IDENTIFIER = com.alonemonkey.WhatsApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8C415A9F1F6FFCFE00FD250D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 9XQEPG2J2J;
+				ENABLE_BITCODE = NO;
+				INFOPLIST_FILE = WhatsApp/Info.plist;
+				MONKEYDEV_CLASS_DUMP = YES;
+				MONKEYDEV_RESTORE_SYMBOL = YES;
+				PODS_ROOT = "${SRCROOT}/Pods";
+				PRODUCT_BUNDLE_IDENTIFIER = com.alonemonkey.WhatsApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8C415A551F6FFCFE00FD250D /* Build configuration list for PBXProject "WhatsApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C415A981F6FFCFE00FD250D /* Debug */,
+				8C415A991F6FFCFE00FD250D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8C415A9A1F6FFCFE00FD250D /* Build configuration list for PBXNativeTarget "WhatsAppDylib" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C415A9B1F6FFCFE00FD250D /* Debug */,
+				8C415A9C1F6FFCFE00FD250D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8C415A9D1F6FFCFE00FD250D /* Build configuration list for PBXNativeTarget "WhatsApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C415A9E1F6FFCFE00FD250D /* Debug */,
+				8C415A9F1F6FFCFE00FD250D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8C415A521F6FFCFE00FD250D /* Project object */;
+}

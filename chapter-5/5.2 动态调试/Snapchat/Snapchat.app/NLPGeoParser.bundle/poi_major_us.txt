@@ -1,0 +1,51 @@
+grand canyon	Grand Canyon National Park		AZ	USA
+disneyland	DisneyLand Resort	Anaheim	CA	USA
+legoland	Legoland	Carlsbad	CA	USA
+hollywood sign	Hollywood Sign	Los Angeles	CA	USA
+the getty,getty	The Getty Museum	Los Angeles	CA	USA
+seaworld	Seaworld	San Diego	CA	USA
+alcatraz	Alcatraz Island	San Francisco	CA	USA
+golden gate,golden gate bridge	Golden Gate Bridge	San Francisco	CA	USA
+hearst castle	Hearst Castle	San Simeon	CA	USA
+venice,venice beach	Venice Beach	Venice	CA	USA
+yosemite	Yosemite National Park		CA	USA
+redwood park	Redwood National Park		CA	USA
+big sur	Big Sur		CA	USA
+tahoe,lake tahoe	Lake Tahoe		CA/NV	USA
+rocky mountain,rocky mountain park	Rocky Mountain National Park		CO	USA
+white house,the white house	White House	Washington	DC	USA
+national mall	National Mall	Washington	DC	USA
+capitol hill	Capitol Hill	Washington	DC	USA
+lincoln memorial	Lincoln Memorial	Washington	DC	USA
+library of congress	Library of Congress	Washington	DC	USA
+disney,disneyworld,disney world	Walt Disney World Resort	Orlando	FL	USA
+seaworld	Seaworld	Orlando	FL	USA
+universal orlando	Universal Resort	Orlando	FL	USA
+busch gardens	Busch Gardens	Tampa	FL	USA
+waikiki	Waikiki Beach	Honolulu	HI	USA
+navy pier	Navy Pier	Chicago	IL	USA
+the common,boston common	Boston Common	Boston	MA	USA
+acadia park	Acadia National Park		ME	USA
+moa,mall of america	Mall of America	Bloomington	MN	USA
+glacier park	Glacier National Park		MT	USA
+great smoky, great smoky mountains	Great Smoky Mountains National Park		NC/TN	USA
+las vegas,the strip,las vegas strip	Las Vegas Strip	Las Vegas	NV	USA
+brooklyn bridge	Brooklyn Bridge	Brooklyn	NY	USA
+universal,universal studios	Universal Studios Hollywood	Los Angeles	NY	USA
+times square	Times Square	New York City	NY	USA
+central park	Central Park	New York City	NY	USA
+guggenheim	Guggenheim Museum	New York City	NY	USA
+the met,met	Metropolitan Museum of Art	New York City	NY	USA
+moma	Museum of Modern Art	New York City	NY	USA
+grand central,grand central station	Grand Central Terminal	New York City	NY	USA
+30rock,rockfeller center	Rockfeller Center	New York City	NY	USA
+empire state	Empire State Building	New York City 	NY	USA
+niagara,niagara falls	Niagara Falls		NY	
+statue of liberty	Statue of Liberty		NY	USA
+rushmore,mount rushmore	Mount Rushmore	Keystone	SD	USA
+paseo del rio,san antonio river walk	River Walk	San Antonio	TX	USA
+zion,zion park	Zion National Park		UT	USA
+space needle	Space Needle	Seattle 	WA	USA
+olympic park	Olympic National Park		WA	USA
+grand teton	Grand Teton National Park		WY	USA
+yellowstone	Yellowstone National Park		WY/MT/ID	USA

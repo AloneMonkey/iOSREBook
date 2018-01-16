@@ -1,0 +1,361 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8C70E14F1F546C40008D582B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C70E14E1F546C40008D582B /* UIKit.framework */; };
+		8C70E1511F546C40008D582B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C70E1501F546C40008D582B /* Foundation.framework */; };
+		8C70E1531F546C40008D582B /* CydiaSubstrate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C70E1521F546C40008D582B /* CydiaSubstrate.framework */; };
+		8C70E15C1F546C40008D582B /* Logs.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8C70E15B1F546C40008D582B /* Logs.mm */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8C70E14B1F546C40008D582B /* Logs.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = Logs.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		8C70E14E1F546C40008D582B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		8C70E1501F546C40008D582B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		8C70E1521F546C40008D582B /* CydiaSubstrate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CydiaSubstrate.framework; path = Library/Frameworks/CydiaSubstrate.framework; sourceTree = DEVELOPER_DIR; };
+		8C70E1571F546C40008D582B /* control */ = {isa = PBXFileReference; lastKnownFileType = text; name = control; path = Package/DEBIAN/control; sourceTree = "<group>"; };
+		8C70E1591F546C40008D582B /* Logs-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Logs-Prefix.pch"; sourceTree = "<group>"; };
+		8C70E15A1F546C40008D582B /* Logs.xm */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; path = Logs.xm; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		8C70E15B1F546C40008D582B /* Logs.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = Logs.mm; sourceTree = "<group>"; };
+		8C70E1601F546C40008D582B /* Logs.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Logs.plist; path = Package/Library/MobileSubstrate/DynamicLibraries/Logs.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8C70E1471F546C40008D582B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C70E14F1F546C40008D582B /* UIKit.framework in Frameworks */,
+				8C70E1511F546C40008D582B /* Foundation.framework in Frameworks */,
+				8C70E1531F546C40008D582B /* CydiaSubstrate.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8C70E1401F546C40008D582B = {
+			isa = PBXGroup;
+			children = (
+				8C70E1541F546C40008D582B /* Logs */,
+				8C70E14D1F546C40008D582B /* Frameworks */,
+				8C70E14C1F546C40008D582B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8C70E14C1F546C40008D582B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E14B1F546C40008D582B /* Logs.dylib */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8C70E14D1F546C40008D582B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E14E1F546C40008D582B /* UIKit.framework */,
+				8C70E1501F546C40008D582B /* Foundation.framework */,
+				8C70E1521F546C40008D582B /* CydiaSubstrate.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8C70E1541F546C40008D582B /* Logs */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E15A1F546C40008D582B /* Logs.xm */,
+				8C70E15B1F546C40008D582B /* Logs.mm */,
+				8C70E1551F546C40008D582B /* Package */,
+				8C70E1581F546C40008D582B /* Supporting Files */,
+			);
+			path = Logs;
+			sourceTree = "<group>";
+		};
+		8C70E1551F546C40008D582B /* Package */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E1561F546C40008D582B /* DEBIAN */,
+				8C70E15D1F546C40008D582B /* Library */,
+			);
+			name = Package;
+			sourceTree = "<group>";
+		};
+		8C70E1561F546C40008D582B /* DEBIAN */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E1571F546C40008D582B /* control */,
+			);
+			name = DEBIAN;
+			sourceTree = "<group>";
+		};
+		8C70E1581F546C40008D582B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E1591F546C40008D582B /* Logs-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8C70E15D1F546C40008D582B /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E15E1F546C40008D582B /* MobileSubstrate */,
+			);
+			name = Library;
+			sourceTree = "<group>";
+		};
+		8C70E15E1F546C40008D582B /* MobileSubstrate */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E15F1F546C40008D582B /* DynamicLibraries */,
+			);
+			name = MobileSubstrate;
+			sourceTree = "<group>";
+		};
+		8C70E15F1F546C40008D582B /* DynamicLibraries */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E1601F546C40008D582B /* Logs.plist */,
+			);
+			name = DynamicLibraries;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		8C70E1481F546C40008D582B /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		8C70E14A1F546C40008D582B /* Logs */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8C70E1631F546C40008D582B /* Build configuration list for PBXNativeTarget "Logs" */;
+			buildPhases = (
+				8C70E1451F546C40008D582B /* ShellScript */,
+				8C70E1461F546C40008D582B /* Sources */,
+				8C70E1471F546C40008D582B /* Frameworks */,
+				8C70E1481F546C40008D582B /* Headers */,
+				8C70E1491F546C40008D582B /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Logs;
+			productName = Logs;
+			productReference = 8C70E14B1F546C40008D582B /* Logs.dylib */;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8C70E1411F546C40008D582B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0900;
+				TargetAttributes = {
+					8C70E14A1F546C40008D582B = {
+						CreatedOnToolsVersion = 9.0;
+					};
+				};
+			};
+			buildConfigurationList = 8C70E1441F546C40008D582B /* Build configuration list for PBXProject "Logs" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8C70E1401F546C40008D582B;
+			productRefGroup = 8C70E14C1F546C40008D582B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8C70E14A1F546C40008D582B /* Logs */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		8C70E1451F546C40008D582B /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/opt/MonkeyDev/bin/md --xcbp-logos";
+		};
+		8C70E1491F546C40008D582B /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/opt/MonkeyDev/bin/md --xcbp";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8C70E1461F546C40008D582B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C70E15C1F546C40008D582B /* Logs.mm in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		8C70E1611F546C40008D582B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "*.nib *.lproj *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(MonkeyDevPath)/frameworks/**",
+					"$(MonkeyDevTheosPath)/vendor/lib",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "$(MonkeyDevTheosPath)/vendor/include/**";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LIBRARY_SEARCH_PATHS = "$(MonkeyDevTheosPath)/vendor/lib/**";
+				MonkeyDevPath = /opt/MonkeyDev;
+				MonkeyDevTheosPath = /opt/theos;
+				OTHER_CFLAGS = "-DTHEOS_INSTANCE_NAME=\"\\\"Logs\\\"\"";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8C70E1621F546C40008D582B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "*.nib *.lproj *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(MonkeyDevPath)/frameworks/**",
+					"$(MonkeyDevTheosPath)/vendor/lib",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "$(MonkeyDevTheosPath)/vendor/include/**";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LIBRARY_SEARCH_PATHS = "$(MonkeyDevTheosPath)/vendor/lib/**";
+				MonkeyDevPath = /opt/MonkeyDev;
+				MonkeyDevTheosPath = /opt/theos;
+				OTHER_CFLAGS = "-DTHEOS_INSTANCE_NAME=\"\\\"Logs\\\"\"";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = NO;
+			};
+			name = Debug;
+		};
+		8C70E1641F546C40008D582B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				DEVELOPMENT_TEAM = 9XQEPG2J2J;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Logs/Logs-Prefix.pch";
+				INSTALL_PATH = /Library/MobileSubstrate/DynamicLibraries;
+				MonkeyDevBuildPackageOnAnyBuild = NO;
+				MonkeyDevClearUiCacheOnInstall = NO;
+				MonkeyDevCopyOnBuild = NO;
+				MonkeyDevDeviceIP = localhost;
+				MonkeyDevDevicePort = 2222;
+				MonkeyDevInstallOnAnyBuild = YES;
+				MonkeyDevInstallOnProfiling = YES;
+				MonkeyDevkillProcessOnInstall = Snapchat;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		8C70E1651F546C40008D582B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				DEVELOPMENT_TEAM = 9XQEPG2J2J;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Logs/Logs-Prefix.pch";
+				INSTALL_PATH = /Library/MobileSubstrate/DynamicLibraries;
+				MonkeyDevBuildPackageOnAnyBuild = NO;
+				MonkeyDevClearUiCacheOnInstall = NO;
+				MonkeyDevCopyOnBuild = NO;
+				MonkeyDevDeviceIP = localhost;
+				MonkeyDevDevicePort = 2222;
+				MonkeyDevInstallOnAnyBuild = YES;
+				MonkeyDevInstallOnProfiling = YES;
+				MonkeyDevkillProcessOnInstall = Snapchat;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8C70E1441F546C40008D582B /* Build configuration list for PBXProject "Logs" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C70E1611F546C40008D582B /* Release */,
+				8C70E1621F546C40008D582B /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8C70E1631F546C40008D582B /* Build configuration list for PBXNativeTarget "Logs" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C70E1641F546C40008D582B /* Release */,
+				8C70E1651F546C40008D582B /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8C70E1411F546C40008D582B /* Project object */;
+}

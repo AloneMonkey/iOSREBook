@@ -1,0 +1,367 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8CBE0FD81F87A21B006FA750 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CBE0FD71F87A21B006FA750 /* AppDelegate.m */; };
+		8CBE0FDB1F87A21B006FA750 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CBE0FDA1F87A21B006FA750 /* ViewController.m */; };
+		8CBE0FDE1F87A21B006FA750 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CBE0FDC1F87A21B006FA750 /* Main.storyboard */; };
+		8CBE0FE01F87A21B006FA750 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CBE0FDF1F87A21B006FA750 /* Assets.xcassets */; };
+		8CBE0FE31F87A21B006FA750 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CBE0FE11F87A21B006FA750 /* LaunchScreen.storyboard */; };
+		8CBE0FE61F87A21B006FA750 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CBE0FE51F87A21B006FA750 /* main.m */; };
+		8CBE0FEE1F87A242006FA750 /* Cycript.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CBE0FEC1F87A238006FA750 /* Cycript.framework */; };
+		8CBE0FF81F87A328006FA750 /* libstdc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CBE0FF51F87A2F4006FA750 /* libstdc++.tbd */; };
+		8CBE0FF91F87A334006FA750 /* libsqlite3.0.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CBE0FF31F87A282006FA750 /* libsqlite3.0.tbd */; };
+		8CBE0FFA1F87A33C006FA750 /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CBE0FF11F87A275006FA750 /* JavaScriptCore.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8CBE0FD31F87A21B006FA750 /* CycriptApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CycriptApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8CBE0FD61F87A21B006FA750 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		8CBE0FD71F87A21B006FA750 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		8CBE0FD91F87A21B006FA750 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		8CBE0FDA1F87A21B006FA750 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		8CBE0FDD1F87A21B006FA750 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8CBE0FDF1F87A21B006FA750 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8CBE0FE21F87A21B006FA750 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8CBE0FE41F87A21B006FA750 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8CBE0FE51F87A21B006FA750 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8CBE0FEC1F87A238006FA750 /* Cycript.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Cycript.framework; sourceTree = "<group>"; };
+		8CBE0FEF1F87A264006FA750 /* libstdc++.6.0.9.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libstdc++.6.0.9.tbd"; path = "usr/lib/libstdc++.6.0.9.tbd"; sourceTree = SDKROOT; };
+		8CBE0FF11F87A275006FA750 /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		8CBE0FF31F87A282006FA750 /* libsqlite3.0.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.0.tbd; path = usr/lib/libsqlite3.0.tbd; sourceTree = SDKROOT; };
+		8CBE0FF51F87A2F4006FA750 /* libstdc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libstdc++.tbd"; path = "usr/lib/libstdc++.tbd"; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8CBE0FD01F87A21B006FA750 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8CBE0FFA1F87A33C006FA750 /* JavaScriptCore.framework in Frameworks */,
+				8CBE0FF91F87A334006FA750 /* libsqlite3.0.tbd in Frameworks */,
+				8CBE0FF81F87A328006FA750 /* libstdc++.tbd in Frameworks */,
+				8CBE0FEE1F87A242006FA750 /* Cycript.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8CBE0FCA1F87A21B006FA750 = {
+			isa = PBXGroup;
+			children = (
+				8CBE0FEC1F87A238006FA750 /* Cycript.framework */,
+				8CBE0FD51F87A21B006FA750 /* CycriptApp */,
+				8CBE0FD41F87A21B006FA750 /* Products */,
+				8CBE0FED1F87A242006FA750 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		8CBE0FD41F87A21B006FA750 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8CBE0FD31F87A21B006FA750 /* CycriptApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8CBE0FD51F87A21B006FA750 /* CycriptApp */ = {
+			isa = PBXGroup;
+			children = (
+				8CBE0FD61F87A21B006FA750 /* AppDelegate.h */,
+				8CBE0FD71F87A21B006FA750 /* AppDelegate.m */,
+				8CBE0FD91F87A21B006FA750 /* ViewController.h */,
+				8CBE0FDA1F87A21B006FA750 /* ViewController.m */,
+				8CBE0FDC1F87A21B006FA750 /* Main.storyboard */,
+				8CBE0FDF1F87A21B006FA750 /* Assets.xcassets */,
+				8CBE0FE11F87A21B006FA750 /* LaunchScreen.storyboard */,
+				8CBE0FE41F87A21B006FA750 /* Info.plist */,
+				8CBE0FE51F87A21B006FA750 /* main.m */,
+			);
+			path = CycriptApp;
+			sourceTree = "<group>";
+		};
+		8CBE0FED1F87A242006FA750 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8CBE0FF51F87A2F4006FA750 /* libstdc++.tbd */,
+				8CBE0FF31F87A282006FA750 /* libsqlite3.0.tbd */,
+				8CBE0FF11F87A275006FA750 /* JavaScriptCore.framework */,
+				8CBE0FEF1F87A264006FA750 /* libstdc++.6.0.9.tbd */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8CBE0FD21F87A21B006FA750 /* CycriptApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8CBE0FE91F87A21B006FA750 /* Build configuration list for PBXNativeTarget "CycriptApp" */;
+			buildPhases = (
+				8CBE0FCF1F87A21B006FA750 /* Sources */,
+				8CBE0FD01F87A21B006FA750 /* Frameworks */,
+				8CBE0FD11F87A21B006FA750 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CycriptApp;
+			productName = CycriptApp;
+			productReference = 8CBE0FD31F87A21B006FA750 /* CycriptApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8CBE0FCB1F87A21B006FA750 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0900;
+				ORGANIZATIONNAME = Coder;
+				TargetAttributes = {
+					8CBE0FD21F87A21B006FA750 = {
+						CreatedOnToolsVersion = 9.0;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 8CBE0FCE1F87A21B006FA750 /* Build configuration list for PBXProject "CycriptApp" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8CBE0FCA1F87A21B006FA750;
+			productRefGroup = 8CBE0FD41F87A21B006FA750 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8CBE0FD21F87A21B006FA750 /* CycriptApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8CBE0FD11F87A21B006FA750 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8CBE0FE31F87A21B006FA750 /* LaunchScreen.storyboard in Resources */,
+				8CBE0FE01F87A21B006FA750 /* Assets.xcassets in Resources */,
+				8CBE0FDE1F87A21B006FA750 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8CBE0FCF1F87A21B006FA750 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8CBE0FDB1F87A21B006FA750 /* ViewController.m in Sources */,
+				8CBE0FE61F87A21B006FA750 /* main.m in Sources */,
+				8CBE0FD81F87A21B006FA750 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		8CBE0FDC1F87A21B006FA750 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8CBE0FDD1F87A21B006FA750 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		8CBE0FE11F87A21B006FA750 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8CBE0FE21F87A21B006FA750 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8CBE0FE71F87A21B006FA750 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		8CBE0FE81F87A21B006FA750 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8CBE0FEA1F87A21B006FA750 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9XQEPG2J2J;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				INFOPLIST_FILE = CycriptApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.alonemonkey.CycriptApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8CBE0FEB1F87A21B006FA750 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9XQEPG2J2J;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				INFOPLIST_FILE = CycriptApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.alonemonkey.CycriptApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8CBE0FCE1F87A21B006FA750 /* Build configuration list for PBXProject "CycriptApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8CBE0FE71F87A21B006FA750 /* Debug */,
+				8CBE0FE81F87A21B006FA750 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8CBE0FE91F87A21B006FA750 /* Build configuration list for PBXNativeTarget "CycriptApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8CBE0FEA1F87A21B006FA750 /* Debug */,
+				8CBE0FEB1F87A21B006FA750 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8CBE0FCB1F87A21B006FA750 /* Project object */;
+}

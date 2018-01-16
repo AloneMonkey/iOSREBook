@@ -1,0 +1,13 @@
+{
+  "coreFilters": [
+                  {
+                  "coreFilterId": "Post",
+                  "parameters": [
+                                 {
+                                 "id": "effectId",
+                                 "value": "75"
+                                 }
+                                 ]
+                  }
+  ]
+}

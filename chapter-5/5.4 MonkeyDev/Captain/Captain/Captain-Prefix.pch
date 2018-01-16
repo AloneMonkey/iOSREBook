@@ -1,0 +1,10 @@
+//
+// Prefix header for all source files of the 'Captain' target in the 'Captain' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
+
+#define CHAppName "CaptainHook"
+#define CHDebug   //debug mode

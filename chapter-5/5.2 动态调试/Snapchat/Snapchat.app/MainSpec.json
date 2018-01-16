@@ -1,0 +1,33 @@
+[
+  {
+    "sliderMaxValue" : 2,
+    "key" : "kSCChatClearDefaultInterval",
+    "label" : "Default Delay",
+    "sliderValue" : 0.8,
+    "sliderMinValue" : 0
+  },
+  {
+   "sliderMaxValue" : 4,
+   "key" : "kSCChatMaxDelayedClearInterval",
+   "label" : "Max Delay",
+   "sliderValue" : 2.0,
+   "sliderMinValue" : 0
+  },
+  {
+   "sliderMaxValue" : 30,
+   "key" : "kSCChatLettersConsumedPerSecond",
+   "label" : "Letter Per Second",
+   "sliderValue" : 15.0,
+   "sliderMinValue" : 0
+  },
+  {
+   "key" : "letters_per_second",
+   "label" : "Use Letters Per Second",
+   "switchValue" : true
+  },
+  {
+    "key" : "visualize_delayed_clear",
+    "label" : "Visualize Delayed Clear",
+    "switchValue" : false
+  },
+]

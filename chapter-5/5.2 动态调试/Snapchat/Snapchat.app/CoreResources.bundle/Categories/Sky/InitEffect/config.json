@@ -1,0 +1,42 @@
+{
+	"coreFilters": [{
+					"coreFilterId": "SkyGrid",
+					"parameters": [{
+									"id": "isAnimated",
+									"value": "1"
+									},
+									{
+									"id": "lineSharpness",
+									"value": "100"
+									},
+									{
+									"id": "lineWidth",
+									"value": "0.3"
+									},
+									{
+									"id": "isDisappearing",
+									"value": "1"
+									},
+									{
+									"id": "isFinished",
+									"value": "0"
+									},
+									{
+									"id": "lineColor",
+									"value": "{255, 255, 255}"
+									},
+									{
+									"id": "faceIndex",
+									"value": "0"
+									},
+									{
+									"id": "animationValues",
+									"value": "/zcoord"
+									},
+									{
+									"id": "animationValues",
+									"value": "/position"
+									}]
+					}]
+}
+

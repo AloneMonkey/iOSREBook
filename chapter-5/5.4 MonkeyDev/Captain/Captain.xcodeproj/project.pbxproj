@@ -1,0 +1,349 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8C70E1741F547211008D582B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C70E1731F547211008D582B /* Foundation.framework */; };
+		8C70E17C1F547211008D582B /* Captain.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8C70E17B1F547211008D582B /* Captain.mm */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8C70E1701F547211008D582B /* Captain.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = Captain.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		8C70E1731F547211008D582B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		8C70E1781F547211008D582B /* control */ = {isa = PBXFileReference; lastKnownFileType = text; name = control; path = Package/DEBIAN/control; sourceTree = "<group>"; };
+		8C70E17A1F547211008D582B /* Captain-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Captain-Prefix.pch"; sourceTree = "<group>"; };
+		8C70E17B1F547211008D582B /* Captain.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = Captain.mm; sourceTree = "<group>"; };
+		8C70E1801F547211008D582B /* Captain.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Captain.plist; path = Package/Library/MobileSubstrate/DynamicLibraries/Captain.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8C70E16C1F547211008D582B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C70E1741F547211008D582B /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8C70E1661F547211008D582B = {
+			isa = PBXGroup;
+			children = (
+				8C70E1751F547211008D582B /* Captain */,
+				8C70E1721F547211008D582B /* Frameworks */,
+				8C70E1711F547211008D582B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8C70E1711F547211008D582B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E1701F547211008D582B /* Captain.dylib */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8C70E1721F547211008D582B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E1731F547211008D582B /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8C70E1751F547211008D582B /* Captain */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E17B1F547211008D582B /* Captain.mm */,
+				8C70E1761F547211008D582B /* Package */,
+				8C70E1791F547211008D582B /* Supporting Files */,
+			);
+			path = Captain;
+			sourceTree = "<group>";
+		};
+		8C70E1761F547211008D582B /* Package */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E1771F547211008D582B /* DEBIAN */,
+				8C70E17D1F547211008D582B /* Library */,
+			);
+			name = Package;
+			sourceTree = "<group>";
+		};
+		8C70E1771F547211008D582B /* DEBIAN */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E1781F547211008D582B /* control */,
+			);
+			name = DEBIAN;
+			sourceTree = "<group>";
+		};
+		8C70E1791F547211008D582B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E17A1F547211008D582B /* Captain-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8C70E17D1F547211008D582B /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E17E1F547211008D582B /* MobileSubstrate */,
+			);
+			name = Library;
+			sourceTree = "<group>";
+		};
+		8C70E17E1F547211008D582B /* MobileSubstrate */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E17F1F547211008D582B /* DynamicLibraries */,
+			);
+			name = MobileSubstrate;
+			sourceTree = "<group>";
+		};
+		8C70E17F1F547211008D582B /* DynamicLibraries */ = {
+			isa = PBXGroup;
+			children = (
+				8C70E1801F547211008D582B /* Captain.plist */,
+			);
+			name = DynamicLibraries;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		8C70E16D1F547211008D582B /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		8C70E16F1F547211008D582B /* Captain */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8C70E1831F547211008D582B /* Build configuration list for PBXNativeTarget "Captain" */;
+			buildPhases = (
+				8C70E16B1F547211008D582B /* Sources */,
+				8C70E16C1F547211008D582B /* Frameworks */,
+				8C70E16D1F547211008D582B /* Headers */,
+				8C70E16E1F547211008D582B /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Captain;
+			productName = Captain;
+			productReference = 8C70E1701F547211008D582B /* Captain.dylib */;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8C70E1671F547211008D582B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0900;
+				TargetAttributes = {
+					8C70E16F1F547211008D582B = {
+						CreatedOnToolsVersion = 9.0;
+					};
+				};
+			};
+			buildConfigurationList = 8C70E16A1F547211008D582B /* Build configuration list for PBXProject "Captain" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8C70E1661F547211008D582B;
+			productRefGroup = 8C70E1711F547211008D582B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8C70E16F1F547211008D582B /* Captain */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		8C70E16E1F547211008D582B /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/opt/MonkeyDev/bin/md --xcbp";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8C70E16B1F547211008D582B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C70E17C1F547211008D582B /* Captain.mm in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		8C70E1811F547211008D582B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "*.nib *.lproj *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(MonkeyDevPath)/frameworks/**",
+					"$(MonkeyDevTheosPath)/vendor/lib",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "$(MonkeyDevTheosPath)/vendor/include/**";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LIBRARY_SEARCH_PATHS = "$(MonkeyDevTheosPath)/vendor/lib/**";
+				MonkeyDevPath = /opt/MonkeyDev;
+				MonkeyDevTheosPath = /opt/theos;
+				OTHER_CFLAGS = "-DTHEOS_INSTANCE_NAME=\"\\\"Captain\\\"\"";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8C70E1821F547211008D582B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "*.nib *.lproj *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(MonkeyDevPath)/frameworks/**",
+					"$(MonkeyDevTheosPath)/vendor/lib",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "$(MonkeyDevTheosPath)/vendor/include/**";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LIBRARY_SEARCH_PATHS = "$(MonkeyDevTheosPath)/vendor/lib/**";
+				MonkeyDevPath = /opt/MonkeyDev;
+				MonkeyDevTheosPath = /opt/theos;
+				OTHER_CFLAGS = "-DTHEOS_INSTANCE_NAME=\"\\\"Captain\\\"\"";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = NO;
+			};
+			name = Debug;
+		};
+		8C70E1841F547211008D582B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				DEVELOPMENT_TEAM = 9XQEPG2J2J;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				ENABLE_BITCODE = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Captain/Captain-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(MonkeyDevPath)/include",
+					"$(MonkeyDevTheosPath)/vendor/include/**/**",
+				);
+				INSTALL_PATH = /Library/MobileSubstrate/DynamicLibraries;
+				MonkeyDevBuildPackageOnAnyBuild = NO;
+				MonkeyDevClearUiCacheOnInstall = NO;
+				MonkeyDevCopyOnBuild = NO;
+				MonkeyDevDeviceIP = localhost;
+				MonkeyDevDevicePort = 2222;
+				MonkeyDevInstallOnAnyBuild = YES;
+				MonkeyDevInstallOnProfiling = YES;
+				MonkeyDevkillProcessOnInstall = TargetApp;
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		8C70E1851F547211008D582B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				DEVELOPMENT_TEAM = 9XQEPG2J2J;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				ENABLE_BITCODE = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Captain/Captain-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(MonkeyDevPath)/include",
+					"$(MonkeyDevTheosPath)/vendor/include/**/**",
+				);
+				INSTALL_PATH = /Library/MobileSubstrate/DynamicLibraries;
+				MonkeyDevBuildPackageOnAnyBuild = NO;
+				MonkeyDevClearUiCacheOnInstall = NO;
+				MonkeyDevCopyOnBuild = NO;
+				MonkeyDevDeviceIP = localhost;
+				MonkeyDevDevicePort = 2222;
+				MonkeyDevInstallOnAnyBuild = YES;
+				MonkeyDevInstallOnProfiling = YES;
+				MonkeyDevkillProcessOnInstall = TargetApp;
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8C70E16A1F547211008D582B /* Build configuration list for PBXProject "Captain" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C70E1811F547211008D582B /* Release */,
+				8C70E1821F547211008D582B /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8C70E1831F547211008D582B /* Build configuration list for PBXNativeTarget "Captain" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C70E1841F547211008D582B /* Release */,
+				8C70E1851F547211008D582B /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8C70E1671F547211008D582B /* Project object */;
+}

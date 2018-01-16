@@ -1,0 +1,10 @@
+Package: com.alonemonkey.tweak
+Name: TweakDemo
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: AloneMonkey
+Author: AloneMonkey
+Section: Tweaks
+Version: 0.0.1-8+debug
+Installed-Size: 468

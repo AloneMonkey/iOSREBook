@@ -1,0 +1,368 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8C4159E71F6ED7E900FD250D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C4159E61F6ED7E900FD250D /* UIKit.framework */; };
+		8C4159E91F6ED7E900FD250D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C4159E81F6ED7E900FD250D /* Foundation.framework */; };
+		8C4159EB1F6ED7E900FD250D /* CydiaSubstrate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C4159EA1F6ED7E900FD250D /* CydiaSubstrate.framework */; };
+		8C4159F41F6ED7E900FD250D /* WhatsAppTweak.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8C4159F31F6ED7E900FD250D /* WhatsAppTweak.mm */; };
+		8C415A001F6ED80400FD250D /* CollectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C4159FE1F6ED80400FD250D /* CollectViewController.m */; };
+		8C415A011F6ED80400FD250D /* CollectViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C4159FF1F6ED80400FD250D /* CollectViewController.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8C4159E31F6ED7E900FD250D /* WhatsAppTweak.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = WhatsAppTweak.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		8C4159E61F6ED7E900FD250D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		8C4159E81F6ED7E900FD250D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		8C4159EA1F6ED7E900FD250D /* CydiaSubstrate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CydiaSubstrate.framework; path = Library/Frameworks/CydiaSubstrate.framework; sourceTree = DEVELOPER_DIR; };
+		8C4159EF1F6ED7E900FD250D /* control */ = {isa = PBXFileReference; lastKnownFileType = text; name = control; path = Package/DEBIAN/control; sourceTree = "<group>"; };
+		8C4159F11F6ED7E900FD250D /* WhatsAppTweak-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WhatsAppTweak-Prefix.pch"; sourceTree = "<group>"; };
+		8C4159F21F6ED7E900FD250D /* WhatsAppTweak.xm */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; path = WhatsAppTweak.xm; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		8C4159F31F6ED7E900FD250D /* WhatsAppTweak.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = WhatsAppTweak.mm; sourceTree = "<group>"; };
+		8C4159F81F6ED7E900FD250D /* WhatsAppTweak.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = WhatsAppTweak.plist; path = Package/Library/MobileSubstrate/DynamicLibraries/WhatsAppTweak.plist; sourceTree = "<group>"; };
+		8C4159FE1F6ED80400FD250D /* CollectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectViewController.m; sourceTree = "<group>"; };
+		8C4159FF1F6ED80400FD250D /* CollectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectViewController.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8C4159DF1F6ED7E900FD250D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C4159E71F6ED7E900FD250D /* UIKit.framework in Frameworks */,
+				8C4159E91F6ED7E900FD250D /* Foundation.framework in Frameworks */,
+				8C4159EB1F6ED7E900FD250D /* CydiaSubstrate.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8C4159D81F6ED7E900FD250D = {
+			isa = PBXGroup;
+			children = (
+				8C4159EC1F6ED7E900FD250D /* WhatsAppTweak */,
+				8C4159E51F6ED7E900FD250D /* Frameworks */,
+				8C4159E41F6ED7E900FD250D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8C4159E41F6ED7E900FD250D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8C4159E31F6ED7E900FD250D /* WhatsAppTweak.dylib */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8C4159E51F6ED7E900FD250D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8C4159E61F6ED7E900FD250D /* UIKit.framework */,
+				8C4159E81F6ED7E900FD250D /* Foundation.framework */,
+				8C4159EA1F6ED7E900FD250D /* CydiaSubstrate.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8C4159EC1F6ED7E900FD250D /* WhatsAppTweak */ = {
+			isa = PBXGroup;
+			children = (
+				8C4159FF1F6ED80400FD250D /* CollectViewController.h */,
+				8C4159FE1F6ED80400FD250D /* CollectViewController.m */,
+				8C4159F21F6ED7E900FD250D /* WhatsAppTweak.xm */,
+				8C4159F31F6ED7E900FD250D /* WhatsAppTweak.mm */,
+				8C4159ED1F6ED7E900FD250D /* Package */,
+				8C4159F01F6ED7E900FD250D /* Supporting Files */,
+			);
+			path = WhatsAppTweak;
+			sourceTree = "<group>";
+		};
+		8C4159ED1F6ED7E900FD250D /* Package */ = {
+			isa = PBXGroup;
+			children = (
+				8C4159EE1F6ED7E900FD250D /* DEBIAN */,
+				8C4159F51F6ED7E900FD250D /* Library */,
+			);
+			name = Package;
+			sourceTree = "<group>";
+		};
+		8C4159EE1F6ED7E900FD250D /* DEBIAN */ = {
+			isa = PBXGroup;
+			children = (
+				8C4159EF1F6ED7E900FD250D /* control */,
+			);
+			name = DEBIAN;
+			sourceTree = "<group>";
+		};
+		8C4159F01F6ED7E900FD250D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8C4159F11F6ED7E900FD250D /* WhatsAppTweak-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8C4159F51F6ED7E900FD250D /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				8C4159F61F6ED7E900FD250D /* MobileSubstrate */,
+			);
+			name = Library;
+			sourceTree = "<group>";
+		};
+		8C4159F61F6ED7E900FD250D /* MobileSubstrate */ = {
+			isa = PBXGroup;
+			children = (
+				8C4159F71F6ED7E900FD250D /* DynamicLibraries */,
+			);
+			name = MobileSubstrate;
+			sourceTree = "<group>";
+		};
+		8C4159F71F6ED7E900FD250D /* DynamicLibraries */ = {
+			isa = PBXGroup;
+			children = (
+				8C4159F81F6ED7E900FD250D /* WhatsAppTweak.plist */,
+			);
+			name = DynamicLibraries;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		8C4159E01F6ED7E900FD250D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C415A011F6ED80400FD250D /* CollectViewController.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		8C4159E21F6ED7E900FD250D /* WhatsAppTweak */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8C4159FB1F6ED7E900FD250D /* Build configuration list for PBXNativeTarget "WhatsAppTweak" */;
+			buildPhases = (
+				8C4159DD1F6ED7E900FD250D /* ShellScript */,
+				8C4159DE1F6ED7E900FD250D /* Sources */,
+				8C4159DF1F6ED7E900FD250D /* Frameworks */,
+				8C4159E01F6ED7E900FD250D /* Headers */,
+				8C4159E11F6ED7E900FD250D /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WhatsAppTweak;
+			productName = WhatsAppTweak;
+			productReference = 8C4159E31F6ED7E900FD250D /* WhatsAppTweak.dylib */;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8C4159D91F6ED7E900FD250D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0900;
+				TargetAttributes = {
+					8C4159E21F6ED7E900FD250D = {
+						CreatedOnToolsVersion = 9.0;
+					};
+				};
+			};
+			buildConfigurationList = 8C4159DC1F6ED7E900FD250D /* Build configuration list for PBXProject "WhatsAppTweak" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8C4159D81F6ED7E900FD250D;
+			productRefGroup = 8C4159E41F6ED7E900FD250D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8C4159E21F6ED7E900FD250D /* WhatsAppTweak */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		8C4159DD1F6ED7E900FD250D /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/opt/MonkeyDev/bin/md --xcbp-logos";
+		};
+		8C4159E11F6ED7E900FD250D /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/opt/MonkeyDev/bin/md --xcbp";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8C4159DE1F6ED7E900FD250D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C4159F41F6ED7E900FD250D /* WhatsAppTweak.mm in Sources */,
+				8C415A001F6ED80400FD250D /* CollectViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		8C4159F91F6ED7E900FD250D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "*.nib *.lproj *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(MonkeyDevPath)/frameworks/**",
+					"$(MonkeyDevTheosPath)/vendor/lib",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "$(MonkeyDevTheosPath)/vendor/include/**";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LIBRARY_SEARCH_PATHS = "$(MonkeyDevTheosPath)/vendor/lib/**";
+				MonkeyDevPath = /opt/MonkeyDev;
+				MonkeyDevTheosPath = /opt/theos;
+				OTHER_CFLAGS = "-DTHEOS_INSTANCE_NAME=\"\\\"WhatsAppTweak\\\"\"";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8C4159FA1F6ED7E900FD250D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "*.nib *.lproj *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(MonkeyDevPath)/frameworks/**",
+					"$(MonkeyDevTheosPath)/vendor/lib",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "$(MonkeyDevTheosPath)/vendor/include/**";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LIBRARY_SEARCH_PATHS = "$(MonkeyDevTheosPath)/vendor/lib/**";
+				MonkeyDevPath = /opt/MonkeyDev;
+				MonkeyDevTheosPath = /opt/theos;
+				OTHER_CFLAGS = "-DTHEOS_INSTANCE_NAME=\"\\\"WhatsAppTweak\\\"\"";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = NO;
+			};
+			name = Debug;
+		};
+		8C4159FC1F6ED7E900FD250D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				DEVELOPMENT_TEAM = 9XQEPG2J2J;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WhatsAppTweak/WhatsAppTweak-Prefix.pch";
+				INSTALL_PATH = /Library/MobileSubstrate/DynamicLibraries;
+				MonkeyDevBuildPackageOnAnyBuild = NO;
+				MonkeyDevClearUiCacheOnInstall = NO;
+				MonkeyDevCopyOnBuild = NO;
+				MonkeyDevDeviceIP = "";
+				MonkeyDevDevicePort = 2222;
+				MonkeyDevInstallOnAnyBuild = YES;
+				MonkeyDevInstallOnProfiling = YES;
+				MonkeyDevkillProcessOnInstall = WhatsApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		8C4159FD1F6ED7E900FD250D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				DEVELOPMENT_TEAM = 9XQEPG2J2J;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WhatsAppTweak/WhatsAppTweak-Prefix.pch";
+				INSTALL_PATH = /Library/MobileSubstrate/DynamicLibraries;
+				MonkeyDevBuildPackageOnAnyBuild = NO;
+				MonkeyDevClearUiCacheOnInstall = NO;
+				MonkeyDevCopyOnBuild = NO;
+				MonkeyDevDeviceIP = "";
+				MonkeyDevDevicePort = 2222;
+				MonkeyDevInstallOnAnyBuild = YES;
+				MonkeyDevInstallOnProfiling = YES;
+				MonkeyDevkillProcessOnInstall = WhatsApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8C4159DC1F6ED7E900FD250D /* Build configuration list for PBXProject "WhatsAppTweak" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C4159F91F6ED7E900FD250D /* Release */,
+				8C4159FA1F6ED7E900FD250D /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8C4159FB1F6ED7E900FD250D /* Build configuration list for PBXNativeTarget "WhatsAppTweak" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C4159FC1F6ED7E900FD250D /* Release */,
+				8C4159FD1F6ED7E900FD250D /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8C4159D91F6ED7E900FD250D /* Project object */;
+}

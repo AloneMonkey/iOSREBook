@@ -1,0 +1,6 @@
+framework module BookFramework {
+  umbrella header "BookFramework.h"
+
+  export *
+  module * { export * }
+}

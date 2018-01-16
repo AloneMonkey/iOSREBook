@@ -1,0 +1,125 @@
+Allabama	Alabama	AL
+Alabamma	Alabama	AL
+Ala	Alabama	AL
+Alsaka	Alaska	AK
+ALSK	Alaska	AK
+ARK	Arkansas	AR
+Arizonia	Arizona	AZ
+Arzinoa	Arizona	AZ
+Califronia	California	CA
+Calif	California	CA
+Cal	California	CA
+Cali	California	CA
+Calorado	Colorado	CO
+Colarado	Colorado	CO
+Col	Colorado	CO
+Colo	Colorado	CO
+connecticutt	Connecticut	CT
+conn	Connecticut	CT
+conneticutt	Connecticut	CT
+connetticut	Connecticut	CT
+connetticutt	Connecticut	CT
+conneticut	Connecticut	CT
+District of Columbia	Washington	DC
+Delawere	Delaware	DE
+Del	Delaware	DE
+Floridas	Florida	FL
+FLA	Florida	FL
+Floryda	Florida	FL
+Florda	Florida	FL
+Flordia	Florida	FL
+Georgeia	Georgia	GA
+Georgea	Georgia	GA
+Hawai	Hawaii	HI
+Haw	Hawaii	HI
+Howaii	Hawaii	HI
+Hawii	Hawaii	HI
+Hawaai	Hawaii	HI
+Idahoe	Idaho	ID
+Ideho	Idaho	ID
+IDA	Idaho	ID
+Illanoise	Illinois	IL
+ILL	Illinois	IL
+Ind	Indiana	IN
+Iowha	Iowa	IA
+Ioaw	Iowa	IA
+Iwoa	Iowa	IA
+kentuky	Kentucky	KY
+kentucy	Kentucky	KY
+kans	Kansas	KS
+Louiseiana	Louisiana	LA
+main	Maine	ME
+miane	Maine	ME
+miane	Maine	ME
+mary land	Maryland	MD
+marryland	Maryland	MD
+Massachussetts	Massachusetts	MA
+Mass	Massachusetts	MA
+Masachusetts	Massachusetts	MA
+Masachusets	Massachusetts	MA
+Massachussets	Massachusetts	MA
+michgan	Michigan	MI
+michagin	Michigan	MI
+Mich	Michigan	MI
+Michagan	Michigan	MI
+Misouri	Missouri	MO
+Minesota	Minnesota	MN
+Minn	Minnesota	MN
+Mississipi	Mississippi	MS
+Miss	Mississippi	MS
+Missisipi	Mississippi	MS
+Missoury	Mississippi	MS
+Missisippi	Mississippi	MS
+Mont	Montana	MT
+Nebrascka	Nebraska	NE
+Nebr	Nebraska	NE
+Neb	Nebraska	NE
+Nevadaa	Nevada	NV
+Newvada	Nevada	NV
+Navada	Nevada	NV
+Nev	Nevada	NV
+NewHampshire	New Hampshire	NH
+newjersey	New Jersey	NJ
+NewMexico	New Mexico	NM
+NMex	New Mexico	NM
+Newyork	New York	NY
+North Caroleina	North Carolina	NC
+northdakota	North Dakota	ND
+ndak	North Dakota	ND
+Oiho	Ohio	OH
+Okalahoma	Oklahoma	OK
+Okla	Oklahoma	OK
+Orgon	Oregon	OR
+Oreg	Oregon	OR
+Ore	Oregon	OR
+Pensylvania	Pennsylvania	PA
+PR	Puerto Rico	PR
+road island	Rhode Island	RI
+rhodeisland	Rhode Island	RI
+rode island	Rhode Island	RI
+rhod island	Rhode Island	RI
+southcarolina	South Carolina	SC
+sout carolin	South Carolina	SC
+south carolna	South Carolina	SC
+souh carolia	South Carolina	SC
+southdakota	South Dakota	SD
+sdak	South Dakota	SD
+Tennesee	Tennessee	TN
+Tennisse	Tennessee	TN
+Tennissee	Tennessee	TN
+Tennisee	Tennessee	TN
+Tenn	Tennessee	TN
+texes	Texas	TX
+tex	Texas	TX
+texis	Texas	TX
+Utes	Utah	UT
+Utar	Utah	UT
+Vrmont	Vermont	VT
+Virgina	Virginia	VA
+WASH	Washington	WA
+WIS	Wisconsin	WI
+West Virgina	West Virginia	WV
+West Virgnia	West Virginia	WV
+Whyoming	Wyoming	WY
+Wioming	Wyoming	WY
+Wyo	Wyoming	WY

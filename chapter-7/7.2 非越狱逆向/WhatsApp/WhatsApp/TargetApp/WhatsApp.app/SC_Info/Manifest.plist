@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SinfPaths</key>
+	<array>
+		<string>SC_Info/WhatsApp.sinf</string>
+	</array>
+	<key>SinfReplicationPaths</key>
+	<array>
+		<string>PlugIns/Intents.appex/SC_Info/Intents.sinf</string>
+		<string>PlugIns/IntentsUI.appex/SC_Info/IntentsUI.sinf</string>
+		<string>PlugIns/ShareExtension.appex/SC_Info/ShareExtension.sinf</string>
+		<string>PlugIns/TodayExtension.appex/SC_Info/TodayExtension.sinf</string>
+		<string>SC_Info/WhatsApp.sinf</string>
+	</array>
+</dict>
+</plist>

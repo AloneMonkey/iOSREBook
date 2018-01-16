@@ -1,0 +1,57 @@
+{
+	"coreFilters": [{
+					"coreFilterId": "SoftSkin",
+					"parameters": [{
+									"id": "step",
+									"value": "6"
+									},
+									{
+									"id": "radius",
+									"value": "3"
+									},
+									{
+									"id": "intensity",
+									"value": "0.1"
+									},
+									{
+									"id": "addNoise",
+									"value": "1"
+									},
+									{
+									"id": "applyToWholeImage",
+									"value": "1"
+									},
+									{
+									"id": "faceIndex",
+									"value": "0"
+									}]
+					},
+					{
+					"coreFilterId": "CustomShader",
+					"parameters": [{
+									"id": "intensity",
+									"value": "1.32345e-14"
+									},
+									{
+									"id": "colorMap",
+									"value": "Effect12Map.png"
+									},
+									{
+									"id": "shaderPath",
+									"value": "postShader.glsl"
+									},
+									{
+									"id": "faceIndex",
+									"value": "0"
+									},
+									{
+									"id": "animationValues",
+									"value": "/zcoord"
+									},
+									{
+									"id": "animationValues",
+									"value": "/scale"
+									}]
+					}]
+}
+

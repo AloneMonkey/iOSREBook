@@ -1,0 +1,45 @@
+//
+//  PrefixHeader.pch
+//  TargetApp
+//
+//  Created by monkey on 2017/9/24.
+//  Copyright © 2017年 Coder. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+//// Properties
+//
+//// Protocols
+//
+//// Classes
+//#ifndef ViewController
+//#define ViewController n7zSFhsco6d5cr
+//#endif // ViewController
+//#ifndef CustomClass
+//#define CustomClass e4WF9CNk9Jk
+//#endif // CustomClass
+//#ifndef AppDelegate
+//#define AppDelegate d65EDcy2VI5
+//#endif // AppDelegate
+//
+//// Categories
+//
+//// Methods
+//#ifndef clickMe
+//#define clickMe t0KaQLG
+//#endif // clickMe
+//#ifndef setClickMe
+//#define setClickMe setT0KaQLG
+//#endif // setClickMe
+//#ifndef customMethod
+//#define customMethod x5inx8QAy9Bo
+//#endif // customMethod
+//#ifndef setCustomMethod
+//#define setCustomMethod setX5inx8QAy9Bo
+//#endif // setCustomMethod
+
+//// I-vars
+
+#endif /* PrefixHeader_pch */

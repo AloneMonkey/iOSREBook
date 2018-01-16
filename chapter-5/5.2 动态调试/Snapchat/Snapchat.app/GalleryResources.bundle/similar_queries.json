@@ -1,0 +1,5369 @@
+{
+    "amber" : [
+               "brown",
+               "yellow"
+               ],
+    "rucksack" : [
+                  "bag"
+                  ],
+    "emporium" : [
+                  "shop",
+                  "mart",
+                  "market",
+                  "market place",
+                  "store"
+                  ],
+    "bake shop" : [
+                   "bakery"
+                   ],
+    "high heel" : [
+                   "shoe"
+                   ],
+    "blade" : [
+               "knife"
+               ],
+    "handbook" : [
+                  "book"
+                  ],
+    "athletic sock" : [
+                       "sock"
+                       ],
+    "grip car" : [
+                  "tram",
+                  "trolley",
+                  "cable car"
+                  ],
+    "study hall" : [
+                    "read",
+                    "study room",
+                    "study"
+                    ],
+    "hockey stick" : [
+                      "stick"
+                      ],
+    "ridge" : [
+               "mountain",
+               "sand",
+               "dune"
+               ],
+    "carryall" : [
+                  "bag"
+                  ],
+    "boulevard" : [
+                   "road"
+                   ],
+    "hockey skate" : [
+                      "skate"
+                      ],
+    "valentines day" : [
+                        "heart"
+                        ],
+    "speedboat" : [
+                   "powerboat",
+                   "motorboat"
+                   ],
+    "skirt" : [
+               "woman's clothing"
+               ],
+    "department" : [
+                    "office"
+                    ],
+    "chorister" : [
+                   "singer"
+                   ],
+    "large church" : [
+                      "cathedral"
+                      ],
+    "outing" : [
+                "picnic"
+                ],
+    "bistro" : [
+                "restaurant",
+                "cafe",
+                "coffee shop"
+                ],
+    "cellular" : [
+                  "phone",
+                  "telephone"
+                  ],
+    "boarding" : [
+                  "skiing"
+                  ],
+    "airplane" : [
+                  "plane",
+                  "jet"
+                  ],
+    "jug" : [
+             "bottle"
+             ],
+    "escort" : [
+                "guard"
+                ],
+    "personal computer" : [
+                           "laptop"
+                           ],
+    "soft drink" : [
+                    "Coke",
+                    "soda"
+                    ],
+    "matron" : [
+                "woman",
+                "female"
+                ],
+    "briefs" : [
+                "underwear"
+                ],
+    "downtown" : [
+                  "city"
+                  ],
+    "purse" : [
+               "bag"
+               ],
+    "snowdrift" : [
+                   "snow",
+                   "winter"
+                   ],
+    "shellfish" : [
+                   "crawfish",
+                   "lobster",
+                   "shrimp"
+                   ],
+    "conscript" : [
+                   "soldier",
+                   "military personnel"
+                   ],
+    "atoll" : [
+               "coral"
+               ],
+    "can" : [
+             "bucket"
+             ],
+    "produce" : [
+                 "vegetable",
+                 "fruit",
+                 "greens"
+                 ],
+    "dumbwaiter" : [
+                    "elevator"
+                    ],
+    "iphone" : [
+                "smartphone"
+                ],
+    "panther" : [
+                 "cougar",
+                 "mountain lion"
+                 ],
+    "lady" : [
+              "woman",
+              "female"
+              ],
+    "moccasin" : [
+                  "shoe"
+                  ],
+    "ornament" : [
+                  "bracelet"
+                  ],
+    "big ben" : [
+                 "clock"
+                 ],
+    "wayfarer" : [
+                  "tourist"
+                  ],
+    "cap" : [
+             "headdress"
+             ],
+    "seafront" : [
+                  "shore",
+                  "coast"
+                  ],
+    "jellies" : [
+                 "jellyfish"
+                 ],
+    "rims" : [
+              "glasses"
+              ],
+    "ironing" : [
+                 "laundry"
+                 ],
+    "child" : [
+               "newborn",
+               "baby",
+               "infant"
+               ],
+    "course" : [
+                "class",
+                "road"
+                ],
+    "horn" : [
+              "trumpet"
+              ],
+    "canoe" : [
+               "kayak",
+               "boat"
+               ],
+    "elephant" : [
+                  "elephant"
+                  ],
+    "mineral" : [
+                 "rock"
+                 ],
+    "signage" : [
+                 "sign"
+                 ],
+    "flat-faced dog" : [
+                        "pug"
+                        ],
+    "mentor" : [
+                "instructor",
+                "teacher"
+                ],
+    "sphere" : [
+                "ball",
+                "bubble"
+                ],
+    "boot" : [
+              "shoe",
+              "footwear"
+              ],
+    "Club" : [
+              "casino",
+              "gamble"
+              ],
+    "gift shop" : [
+                   "shop",
+                   "store"
+                   ],
+    "number cruncher" : [
+                         "calculator"
+                         ],
+    "sitting room" : [
+                      "room"
+                      ],
+    "infantryperson" : [
+                        "soldier",
+                        "military personnel"
+                        ],
+    "turbine" : [
+                 "engine"
+                 ],
+    "tears" : [
+               "water"
+               ],
+    "holiday spot" : [
+                      "resort",
+                      "inn",
+                      "hotel"
+                      ],
+    "troposphere" : [
+                     "sky"
+                     ],
+    "match" : [
+               "lighter"
+               ],
+    "palm tree" : [
+                   "palm"
+                   ],
+    "bristles" : [
+                  "beard"
+                  ],
+    "chemise" : [
+                 "shirt"
+                 ],
+    "instrument" : [
+                    "engine",
+                    "appliance"
+                    ],
+    "convenience store" : [
+                           "shop",
+                           "store",
+                           "supermarket",
+                           "market",
+                           "grocery store"
+                           ],
+    "tidbit" : [
+                "snack"
+                ],
+    "owl" : [
+             "bird"
+             ],
+    "gallery" : [
+                 "club",
+                 "nightlife",
+                 "nightclub"
+                 ],
+    "china" : [
+               "pottery"
+               ],
+    "olive" : [
+               "green"
+               ],
+    "melodist" : [
+                  "singer"
+                  ],
+    "tartan" : [
+                "plaid"
+                ],
+    "burst" : [
+               "fireworks"
+               ],
+    "soldier-at-arms" : [
+                         "soldier",
+                         "military personnel"
+                         ],
+    "small lizard" : [
+                      "gecko"
+                      ],
+    "institution" : [
+                     "school"
+                     ],
+    "shopping plaza" : [
+                        "mart",
+                        "market place",
+                        "market"
+                        ],
+    "baggage" : [
+                 "briefcase"
+                 ],
+    "condo" : [
+               "building",
+               "home",
+               "apartment"
+               ],
+    "grotto" : [
+                "cave"
+                ],
+    "powder room" : [
+                     "bathroom"
+                     ],
+    "airfield" : [
+                  "airport"
+                  ],
+    "wig" : [
+             "hair"
+             ],
+    "cane sugar" : [
+                    "sugar"
+                    ],
+    "construction" : [
+                      "architecture"
+                      ],
+    "bowtie" : [
+                "tie",
+                "necktie"
+                ],
+    "roaster" : [
+                 "grill",
+                 "barbeque"
+                 ],
+    "Fighter jet" : [
+                     "plane"
+                     ],
+    "jogging" : [
+                 "track",
+                 "run",
+                 "marathon",
+                 "jog"
+                 ],
+    "festival" : [
+                  "concert"
+                  ],
+    "furnace" : [
+                 "fireplace"
+                 ],
+    "hanging bed" : [
+                     "hammock"
+                     ],
+    "swallows" : [
+                  "bird"
+                  ],
+    "granary" : [
+                 "warehouse"
+                 ],
+    "route" : [
+               "path",
+               "road"
+               ],
+    "hound dog" : [
+                   "hunting dog"
+                   ],
+    "steamboat" : [
+                   "ship"
+                   ],
+    "foam" : [
+              "bubble"
+              ],
+    "excursionist" : [
+                      "tourist"
+                      ],
+    "garb" : [
+              "dress",
+              "clothes"
+              ],
+    "sloop" : [
+               "yacht",
+               "boat"
+               ],
+    "Beacon" : [
+                "lighthouse"
+                ],
+    "bugle" : [
+               "trumpet"
+               ],
+    "nose-dive" : [
+                   "jump",
+                   "dive",
+                   "plunge"
+                   ],
+    "bodyguard" : [
+                   "guard"
+                   ],
+    "sports stadium" : [
+                        "arena",
+                        "stadium"
+                        ],
+    "alarm" : [
+               "clock"
+               ],
+    "judge" : [
+               "referee"
+               ],
+    "environment" : [
+                     "outdoor"
+                     ],
+    "ice hockey stick" : [
+                          "stick"
+                          ],
+    "attire" : [
+                "clothes"
+                ],
+    "Bug" : [
+             "insect"
+             ],
+    "icon" : [
+              "statue"
+              ],
+    "bluff" : [
+               "mountain",
+               "cliff"
+               ],
+    "acrobatics" : [
+                    "gymnastics"
+                    ],
+    "commercial center" : [
+                           "shopping center",
+                           "mall"
+                           ],
+    "osprey" : [
+                "bird"
+                ],
+    "mass" : [
+              "mountain"
+              ],
+    "testudinal" : [
+                    "turtle"
+                    ],
+    "roadway" : [
+                 "path",
+                 "road"
+                 ],
+    "paradox" : [
+                 "puzzle"
+                 ],
+    "gold chain" : [
+                    "bling"
+                    ],
+    "hairbrush" : [
+                   "brush"
+                   ],
+    "mauve" : [
+               "purple"
+               ],
+    "seaboard" : [
+                  "shore",
+                  "coast"
+                  ],
+    "bolster" : [
+                 "pillow"
+                 ],
+    "football game" : [
+                       "football"
+                       ],
+    "retail" : [
+                "shop",
+                "store"
+                ],
+    "musical" : [
+                 "concert"
+                 ],
+    "board" : [
+               "snowboard"
+               ],
+    "pants" : [
+               "denim",
+               "jeans"
+               ],
+    "sandhill crane" : [
+                        "bird"
+                        ],
+    "pier" : [
+              "harbor",
+              "marina",
+              "port"
+              ],
+    "curio" : [
+               "toy"
+               ],
+    "fiance" : [
+                "groom"
+                ],
+    "rain" : [
+              "water"
+              ],
+    "craft" : [
+               "art",
+               "graphics"
+               ],
+    "doorstep" : [
+                  "stair"
+                  ],
+    "rockets" : [
+                 "fireworks"
+                 ],
+    "decline" : [
+                 "slide",
+                 "playground"
+                 ],
+    "cardinal" : [
+                  "red"
+                  ],
+    "jumbo jet" : [
+                   "jet"
+                   ],
+    "mire" : [
+              "swamp"
+              ],
+    "shale" : [
+               "gravel",
+               "rock"
+               ],
+    "soda" : [
+              "Coke",
+              "soft drink"
+              ],
+    "gathering" : [
+                   "party"
+                   ],
+    "gym" : [
+             "arena",
+             "stadium"
+             ],
+    "love" : [
+              "heart"
+              ],
+    "grassland" : [
+                   "farm"
+                   ],
+    "place" : [
+               "home"
+               ],
+    "athletic club" : [
+                       "arena",
+                       "stadium"
+                       ],
+    "depot" : [
+               "warehouse"
+               ],
+    "effigy" : [
+                "statue"
+                ],
+    "cottage" : [
+                 "cabin"
+                 ],
+    "urban" : [
+               "downtown"
+               ],
+    "snowbank" : [
+                  "snow",
+                  "winter"
+                  ],
+    "bird" : [
+              "swan",
+              "pigeon",
+              "penguin"
+              ],
+    "gadget" : [
+                "tool"
+                ],
+    "mobile device" : [
+                       "phone",
+                       "telephone"
+                       ],
+    "knee-length skirt" : [
+                           "skirt"
+                           ],
+    "spaghetti" : [
+                   "pasta"
+                   ],
+    "martins" : [
+                 "bird"
+                 ],
+    "dame" : [
+              "girl",
+              "female"
+              ],
+    "bifocals" : [
+                  "glasses"
+                  ],
+    "maquillage" : [
+                    "cosmetic"
+                    ],
+    "commode" : [
+                 "bathroom"
+                 ],
+    "kitten" : [
+                "kitty",
+                "cat"
+                ],
+    "strand" : [
+                "beach"
+                ],
+    "visitor" : [
+                 "tourist"
+                 ],
+    "fishbowl" : [
+                  "fish tank",
+                  "aquarium"
+                  ],
+    "coach" : [
+               "instructor",
+               "teacher"
+               ],
+    "smog" : [
+              "cloud"
+              ],
+    "journeyer" : [
+                   "tourist"
+                   ],
+    "institute" : [
+                   "school"
+                   ],
+    "coastland" : [
+                   "shore",
+                   "coast"
+                   ],
+    "herb" : [
+              "plant",
+              "flower"
+              ],
+    "crane" : [
+               "bird"
+               ],
+    "porch" : [
+               "terrace",
+               "patio"
+               ],
+    "roller-skate" : [
+                      "skate"
+                      ],
+    "panini" : [
+                "sandwich"
+                ],
+    "chelonian" : [
+                   "turtle"
+                   ],
+    "longlegs" : [
+                  "spider"
+                  ],
+    "munch" : [
+               "snack"
+               ],
+    "badminton racket" : [
+                          "racket"
+                          ],
+    "banquet" : [
+                 "party"
+                 ],
+    "chai tea" : [
+                  "tea"
+                  ],
+    "zoological park" : [
+                         "zoo"
+                         ],
+    "snowflake" : [
+                   "snow",
+                   "winter"
+                   ],
+    "impala" : [
+                "antelope"
+                ],
+    "angling" : [
+                 "fishing"
+                 ],
+    "mall" : [
+              "mart",
+              "market place",
+              "market"
+              ],
+    "restroom" : [
+                  "bathroom"
+                  ],
+    "iced tea" : [
+                  "tea"
+                  ],
+    "club sandwich" : [
+                       "sandwich"
+                       ],
+    "board game" : [
+                    "game"
+                    ],
+    "morass" : [
+                "swamp"
+                ],
+    "trifocals" : [
+                   "glasses"
+                   ],
+    "race-car" : [
+                  "racer",
+                  "race car"
+                  ],
+    "squash racket" : [
+                       "racket"
+                       ],
+    "receiver" : [
+                  "football player"
+                  ],
+    "jacket" : [
+                "coat"
+                ],
+    "pansy" : [
+               "viola"
+               ],
+    "burrow" : [
+                "nest"
+                ],
+    "pool" : [
+              "lake"
+              ],
+    "gym shoe" : [
+                  "sneaker",
+                  "shoe"
+                  ],
+    "lakeside" : [
+                  "shore",
+                  "coast"
+                  ],
+    "water channel" : [
+                       "canal"
+                       ],
+    "apartment" : [
+                   "building",
+                   "home"
+                   ],
+    "ray" : [
+             "light",
+             "laser"
+             ],
+    "drive in" : [
+                  "movie theater",
+                  "cinema"
+                  ],
+    "descent" : [
+                 "jump",
+                 "dive",
+                 "plunge"
+                 ],
+    "ice-skating rink" : [
+                          "rink"
+                          ],
+    "mobile phone" : [
+                      "phone",
+                      "telephone"
+                      ],
+    "pc" : [
+            "laptop"
+            ],
+    "dish" : [
+              "plate"
+              ],
+    "broadcast" : [
+                   "TV"
+                   ],
+    "ball" : [
+              "basketball",
+              "volleyball",
+              "softball"
+              ],
+    "madame" : [
+                "lady"
+                ],
+    "gully" : [
+               "canyon"
+               ],
+    "long pasta" : [
+                    "spaghetti"
+                    ],
+    "artist" : [
+                "singer",
+                "musician"
+                ],
+    "motorbike" : [
+                   "motorcycle"
+                   ],
+    "clothing" : [
+                  "clothes"
+                  ],
+    "porter john" : [
+                     "bathroom"
+                     ],
+    "H2O" : [
+             "water"
+             ],
+    "undulation" : [
+                    "wave"
+                    ],
+    "marriage" : [
+                  "wedding"
+                  ],
+    "kettle" : [
+                "bucket"
+                ],
+    "kernel" : [
+                "berry"
+                ],
+    "boutique" : [
+                  "shop",
+                  "store"
+                  ],
+    "equipment" : [
+                   "sports equipment"
+                   ],
+    "cockerel" : [
+                  "chicken",
+                  "rooster"
+                  ],
+    "beluga" : [
+                "whale"
+                ],
+    "tiara" : [
+               "crown"
+               ],
+    "blimp" : [
+               "balloon"
+               ],
+    "sombrero" : [
+                  "headdress"
+                  ],
+    "hill" : [
+              "sand",
+              "dune"
+              ],
+    "disk" : [
+              "Frisbee"
+              ],
+    "kid" : [
+             "newborn",
+             "baby",
+             "infant",
+             "goat"
+             ],
+    "sunshade" : [
+                  "umbrella"
+                  ],
+    "athletic field" : [
+                        "arena",
+                        "stadium"
+                        ],
+    "shades" : [
+                "sunglasses",
+                "glasses"
+                ],
+    "tapestry" : [
+                  "rug",
+                  "carpet"
+                  ],
+    "bungalow" : [
+                  "apartment"
+                  ],
+    "wristlet" : [
+                  "bracelet"
+                  ],
+    "tableware" : [
+                   "pottery",
+                   "utensil"
+                   ],
+    "tramway" : [
+                 "tram",
+                 "trolley",
+                 "cable car"
+                 ],
+    "swan" : [
+              "duck"
+              ],
+    "bauble" : [
+                "toy",
+                "jewelry"
+                ],
+    "W.C." : [
+              "bathroom"
+              ],
+    "blob" : [
+              "bubble"
+              ],
+    "pink flowers" : [
+                      "flower"
+                      ],
+    "school" : [
+                "university",
+                "college"
+                ],
+    "shoreline" : [
+                   "shore",
+                   "coast"
+                   ],
+    "horde" : [
+               "group",
+               "crowd",
+               "people"
+               ],
+    "retreat" : [
+                 "resort",
+                 "inn",
+                 "hotel"
+                 ],
+    "knoll" : [
+               "sand",
+               "dune"
+               ],
+    "home" : [
+              "building",
+              "house"
+              ],
+    "carbonated drink" : [
+                          "soft drink"
+                          ],
+    "estuary" : [
+                 "river"
+                 ],
+    "vial" : [
+              "bottle"
+              ],
+    "stockade" : [
+                  "wall"
+                  ],
+    "lemon" : [
+               "lemonade"
+               ],
+    "loggerhead" : [
+                    "turtle"
+                    ],
+    "inn" : [
+             "resort",
+             "motel",
+             "hotel",
+             "inn"
+             ],
+    "umpire" : [
+                "referee"
+                ],
+    "Pop" : [
+             "Coke"
+             ],
+    "juvenile" : [
+                  "baby",
+                  "child"
+                  ],
+    "puppet" : [
+                "doll"
+                ],
+    "educator" : [
+                  "instructor",
+                  "teacher"
+                  ],
+    "headdress" : [
+                   "crown"
+                   ],
+    "BLT" : [
+             "sandwich"
+             ],
+    "glare" : [
+               "light"
+               ],
+    "captain" : [
+                 "pilot"
+                 ],
+    "blinkers" : [
+                  "glasses"
+                  ],
+    "rail line" : [
+                   "train"
+                   ],
+    "falcon" : [
+                "bird"
+                ],
+    "green fruit" : [
+                     "apple"
+                     ],
+    "dressing" : [
+                  "condiment"
+                  ],
+    "dress" : [
+               "woman's clothing",
+               "skirt"
+               ],
+    "wetland" : [
+                 "swamp"
+                 ],
+    "jasmine rice" : [
+                      "rice"
+                      ],
+    "abode" : [
+               "mansion",
+               "house"
+               ],
+    "racket" : [
+                "tennis"
+                ],
+    "pickings" : [
+                  "snack"
+                  ],
+    "molded structure" : [
+                          "sculpture"
+                          ],
+    "chapstick" : [
+                   "lipstick"
+                   ],
+    "street car" : [
+                    "tram",
+                    "trolley",
+                    "cable car"
+                    ],
+    "playing field" : [
+                       "playground"
+                       ],
+    "sucrose" : [
+                 "sugar"
+                 ],
+    "utensil" : [
+                 "tool"
+                 ],
+    "earring" : [
+                 "jewelry"
+                 ],
+    "headpiece" : [
+                   "cap",
+                   "hat",
+                   "headdress"
+                   ],
+    "branch" : [
+                "stick"
+                ],
+    "radiation" : [
+                   "light",
+                   "laser"
+                   ],
+    "sporting dog" : [
+                      "hunting dog"
+                      ],
+    "shoe" : [
+              "footwear"
+              ],
+    "yoghurt" : [
+                 "yogurt"
+                 ],
+    "panty hose" : [
+                    "sock"
+                    ],
+    "kin" : [
+             "family"
+             ],
+    "saloon" : [
+                "casino",
+                "gamble",
+                "restaurant"
+                ],
+    "Mister" : [
+                "male",
+                "man"
+                ],
+    "motorcar" : [
+                  "car",
+                  "automobile"
+                  ],
+    "sightseer" : [
+                   "tourist"
+                   ],
+    "zoological garden" : [
+                           "zoo"
+                           ],
+    "azure" : [
+               "blue"
+               ],
+    "mammal" : [
+                "sheep",
+                "dolphin",
+                "giraffe",
+                "zebra",
+                "animal",
+                "raccoon"
+                ],
+    "loincloth" : [
+                   "underwear"
+                   ],
+    "inkjet" : [
+                "printer"
+                ],
+    "gate" : [
+              "door"
+              ],
+    "Paramedic" : [
+                   "ambulance"
+                   ],
+    "stall" : [
+               "chair",
+               "booth"
+               ],
+    "brolly" : [
+                "umbrella"
+                ],
+    "mane" : [
+              "hair"
+              ],
+    "courtyard" : [
+                   "terrace",
+                   "patio"
+                   ],
+    "comforter" : [
+                   "blanket"
+                   ],
+    "shape" : [
+               "sculpture"
+               ],
+    "folk" : [
+              "person",
+              "family",
+              "people"
+              ],
+    "doodad" : [
+                "toy"
+                ],
+    "boat" : [
+              "ship"
+              ],
+    "racoon" : [
+                "raccoon"
+                ],
+    "brew" : [
+              "tea",
+              "beer"
+              ],
+    "bike" : [
+              "bicycle",
+              "motorcycle"
+              ],
+    "house in the woods" : [
+                            "cabin"
+                            ],
+    "mud" : [
+             "swamp"
+             ],
+    "cardigan" : [
+                  "sweater"
+                  ],
+    "duck" : [
+              "swan"
+              ],
+    "pamphlet" : [
+                  "book"
+                  ],
+    "retailer" : [
+                  "shop",
+                  "store"
+                  ],
+    "sofa" : [
+              "couch"
+              ],
+    "watering place" : [
+                        "natural spring",
+                        "spring",
+                        "fountain"
+                        ],
+    "natation" : [
+                  "swim",
+                  "swimming pool",
+                  "pool"
+                  ],
+    "hound" : [
+               "hunting dog"
+               ],
+    "valentines" : [
+                    "heart"
+                    ],
+    "mug" : [
+             "cup"
+             ],
+    "baseball equipment" : [
+                            "bat"
+                            ],
+    "EMS" : [
+             "ambulance"
+             ],
+    "birthplace" : [
+                    "home"
+                    ],
+    "cooler" : [
+                "fridge",
+                "refrigerator"
+                ],
+    "punch" : [
+               "alcohol"
+               ],
+    "boat basin" : [
+                    "marina",
+                    "harbor"
+                    ],
+    "cookery" : [
+                 "food",
+                 "kitchen"
+                 ],
+    "snowstorm" : [
+                   "snow",
+                   "winter"
+                   ],
+    "someone" : [
+                 "party"
+                 ],
+    "competitor" : [
+                    "athlete",
+                    "jock"
+                    ],
+    "vermin" : [
+                "insect"
+                ],
+    "finback" : [
+                 "whale"
+                 ],
+    "window box" : [
+                    "pot",
+                    "flowerpot"
+                    ],
+    "hind" : [
+              "deer"
+              ],
+    "cliff" : [
+               "mountain"
+               ],
+    "tube" : [
+              "train"
+              ],
+    "waterside" : [
+                   "shore",
+                   "coast"
+                   ],
+    "crooner" : [
+                 "singer"
+                 ],
+    "population" : [
+                    "person",
+                    "people"
+                    ],
+    "bite" : [
+              "snack"
+              ],
+    "Animate being" : [
+                       "animal"
+                       ],
+    "ump" : [
+             "referee"
+             ],
+    "smoothie bowl" : [
+                       "smoothie",
+                       "fruit smoothie"
+                       ],
+    "prawn" : [
+               "shrimp"
+               ],
+    "mold" : [
+              "sculpture"
+              ],
+    "vertebrate" : [
+                    "reptile"
+                    ],
+    "glasses" : [
+                 "sunglasses"
+                 ],
+    "bangle" : [
+                "bracelet",
+                "jewelry"
+                ],
+    "ball field" : [
+                    "ballpark"
+                    ],
+    "tall footwear" : [
+                       "boot"
+                       ],
+    "snow blanket" : [
+                      "snow",
+                      "winter"
+                      ],
+    "marsh" : [
+               "swamp"
+               ],
+    "summer house" : [
+                      "villa"
+                      ],
+    "house of worship" : [
+                          "synagogue",
+                          "mosque",
+                          "temple"
+                          ],
+    "globetrotter" : [
+                      "tourist"
+                      ],
+    "computer" : [
+                  "laptop"
+                  ],
+    "timer" : [
+               "watch",
+               "clock"
+               ],
+    "training shoe" : [
+                       "sneaker"
+                       ],
+    "residence" : [
+                   "mansion",
+                   "home",
+                   "house"
+                   ],
+    "Tropical tree" : [
+                       "palm"
+                       ],
+    "recliner" : [
+                  "chair"
+                  ],
+    "powder snow" : [
+                     "snow",
+                     "winter"
+                     ],
+    "tennis" : [
+                "racket"
+                ],
+    "large house" : [
+                     "villa"
+                     ],
+    "promenade" : [
+                   "dock",
+                   "pier"
+                   ],
+    "agency" : [
+                "office"
+                ],
+    "rowboat" : [
+                 "boat"
+                 ],
+    "mob" : [
+             "group",
+             "crowd",
+             "people"
+             ],
+    "loft" : [
+              "apartment"
+              ],
+    "sammie" : [
+                "sandwich"
+                ],
+    "shindig" : [
+                 "party"
+                 ],
+    "sandwich" : [
+                  "burger",
+                  "hamburger"
+                  ],
+    "bank" : [
+              "wall",
+              "chair",
+              "coast"
+              ],
+    "dill" : [
+              "pickle"
+              ],
+    "pendant" : [
+                 "necklace",
+                 "jewelry"
+                 ],
+    "pass" : [
+              "path"
+              ],
+    "trade center" : [
+                      "mart",
+                      "market place",
+                      "market"
+                      ],
+    "ranch" : [
+               "farm"
+               ],
+    "surgeon" : [
+                 "doctor"
+                 ],
+    "line backer" : [
+                     "football player"
+                     ],
+    "tarantula" : [
+                   "spider"
+                   ],
+    "lounge" : [
+                "club",
+                "nightlife",
+                "nightclub"
+                ],
+    "parasol" : [
+                 "umbrella"
+                 ],
+    "defacement" : [
+                    "graffiti"
+                    ],
+    "physician" : [
+                   "doctor"
+                   ],
+    "basketball shoe" : [
+                         "sneaker",
+                         "shoe"
+                         ],
+    "trading center" : [
+                        "mart",
+                        "market place",
+                        "market"
+                        ],
+    "wildlife park" : [
+                       "zoo"
+                       ],
+    "horseback riding" : [
+                          "horse"
+                          ],
+    "swimming trunks" : [
+                         "bathing suit",
+                         "swimsuit"
+                         ],
+    "screen" : [
+                "monitor"
+                ],
+    "grocery store" : [
+                       "supermarket"
+                       ],
+    "player" : [
+                "athlete",
+                "jock"
+                ],
+    "springbok" : [
+                   "antelope"
+                   ],
+    "cake" : [
+              "dessert",
+              "sweet"
+              ],
+    "rabbit hound" : [
+                      "hunting dog"
+                      ],
+    "brunch" : [
+                "lunch"
+                ],
+    "ensemble" : [
+                  "dress",
+                  "costume"
+                  ],
+    "somebody" : [
+                  "party",
+                  "person"
+                  ],
+    "sweet" : [
+               "candy"
+               ],
+    "person" : [
+                "party"
+                ],
+    "haze" : [
+              "cloud"
+              ],
+    "youngster" : [
+                   "baby",
+                   "newborn",
+                   "infant",
+                   "kid",
+                   "child"
+                   ],
+    "large cat" : [
+                   "cougar",
+                   "mountain lion"
+                   ],
+    "long-sleeve" : [
+                     "shirt"
+                     ],
+    "vulture" : [
+                 "bird"
+                 ],
+    "cigar" : [
+               "lighter"
+               ],
+    "surftown" : [
+                  "surf"
+                  ],
+    "scull" : [
+               "row"
+               ],
+    "kayak" : [
+               "canoe"
+               ],
+    "cream" : [
+               "milk"
+               ],
+    "billy" : [
+               "goat"
+               ],
+    "shrooms" : [
+                 "mushroom"
+                 ],
+    "game" : [
+              "tennis",
+              "soccer",
+              "toy",
+              "volleyball",
+              "softball"
+              ],
+    "tennis racket" : [
+                       "racket"
+                       ],
+    "sandal" : [
+                "shoe"
+                ],
+    "lizard" : [
+                "gecko"
+                ],
+    "device" : [
+                "tool"
+                ],
+    "workspace" : [
+                   "desk"
+                   ],
+    "drab" : [
+              "gray"
+              ],
+    "chair" : [
+               "couch"
+               ],
+    "outside" : [
+                 "outdoor"
+                 ],
+    "boat harbor" : [
+                     "marina",
+                     "harbor"
+                     ],
+    "foxhound" : [
+                  "hunting dog"
+                  ],
+    "gal" : [
+             "girl",
+             "female"
+             ],
+    "machine" : [
+                 "car",
+                 "automobile"
+                 ],
+    "Insect" : [
+                "butterfly"
+                ],
+    "chip" : [
+              "chips"
+              ],
+    "lodge" : [
+               "resort",
+               "motel",
+               "hotel",
+               "inn",
+               "cabin"
+               ],
+    "banner" : [
+                "flag"
+                ],
+    "Crow" : [
+              "bird"
+              ],
+    "pussycat" : [
+                  "kitty",
+                  "cat"
+                  ],
+    "GI" : [
+            "soldier",
+            "military personnel"
+            ],
+    "apparatus" : [
+                   "tool",
+                   "appliance"
+                   ],
+    "field" : [
+               "farm",
+               "arena",
+               "ballpark",
+               "stadium"
+               ],
+    "fruit" : [
+               "tomato",
+               "grape",
+               "plum",
+               "mango",
+               "watermelon",
+               "pineapple",
+               "melon"
+               ],
+    "reservoir" : [
+                   "fountain",
+                   "lake"
+                   ],
+    "show" : [
+              "concert"
+              ],
+    "fuschia" : [
+                 "pink"
+                 ],
+    "speed car" : [
+                   "racer",
+                   "race car"
+                   ],
+    "roadblock" : [
+                   "wall"
+                   ],
+    "athletics" : [
+                   "sports"
+                   ],
+    "arbiter" : [
+                 "referee"
+                 ],
+    "jungle juice" : [
+                      "alcohol"
+                      ],
+    "father" : [
+                "male",
+                "man"
+                ],
+    "plantation" : [
+                    "farm"
+                    ],
+    "meal" : [
+              "food",
+              "table",
+              "breakfast"
+              ],
+    "sales booth" : [
+                     "booth"
+                     ],
+    "tights" : [
+                "sock"
+                ],
+    "automobile" : [
+                    "taxi",
+                    "cab"
+                    ],
+    "dinghy" : [
+                "boat"
+                ],
+    "twig" : [
+              "stick"
+              ],
+    "cablecar" : [
+                  "tram",
+                  "trolley",
+                  "cable car"
+                  ],
+    "tank" : [
+              "shirt"
+              ],
+    "shoal" : [
+               "coral"
+               ],
+    "motel" : [
+               "resort",
+               "inn",
+               "hotel"
+               ],
+    "trail" : [
+               "path"
+               ],
+    "preteen" : [
+                 "kid",
+                 "toddler",
+                 "child"
+                 ],
+    "castle" : [
+                "palace"
+                ],
+    "feline" : [
+                "kitty",
+                "cat"
+                ],
+    "earth" : [
+               "rock"
+               ],
+    "night heron" : [
+                     "bird"
+                     ],
+    "pettiskirt" : [
+                    "skirt"
+                    ],
+    "knife" : [
+               "utensil"
+               ],
+    "potato chip" : [
+                     "chips"
+                     ],
+    "capon" : [
+               "chicken"
+               ],
+    "muttonchops" : [
+                     "beard"
+                     ],
+    "jetliner" : [
+                  "jet"
+                  ],
+    "cold tea" : [
+                  "tea"
+                  ],
+    "black tea" : [
+                   "tea"
+                   ],
+    "pekoe" : [
+               "tea"
+               ],
+    "runningback" : [
+                     "football player"
+                     ],
+    "skyscraper" : [
+                    "tower"
+                    ],
+    "beam" : [
+              "laser"
+              ],
+    "beachwear" : [
+                   "bikini"
+                   ],
+    "outhouse" : [
+                  "bathroom"
+                  ],
+    "gradation" : [
+                   "stair"
+                   ],
+    "basketball sock" : [
+                         "sock"
+                         ],
+    "ramp" : [
+              "slide",
+              "playground"
+              ],
+    "surfboard" : [
+                   "surf"
+                   ],
+    "green tea" : [
+                   "tea"
+                   ],
+    "coral" : [
+               "pink",
+               "red"
+               ],
+    "cooter" : [
+                "turtle"
+                ],
+    "stronghold" : [
+                    "fort"
+                    ],
+    "physical activity" : [
+                           "sports"
+                           ],
+    "recital" : [
+                 "concert"
+                 ],
+    "bean" : [
+              "berry"
+              ],
+    "vacation place" : [
+                        "resort",
+                        "inn",
+                        "hotel"
+                        ],
+    "chicken" : [
+                 "rooster"
+                 ],
+    "hot cocoa" : [
+                   "cocoa",
+                   "hot chocolate",
+                   "chocolate"
+                   ],
+    "rice" : [
+              "sushi"
+              ],
+    "track and field" : [
+                         "track",
+                         "run",
+                         "marathon",
+                         "jog"
+                         ],
+    "offspring" : [
+                   "kid",
+                   "family",
+                   "child"
+                   ],
+    "gymnasium" : [
+                   "arena",
+                   "stadium"
+                   ],
+    "kiln" : [
+              "oven"
+              ],
+    "fowl" : [
+              "bird",
+              "rooster"
+              ],
+    "retail store" : [
+                      "shop",
+                      "store"
+                      ],
+    "convertible" : [
+                     "sports car"
+                     ],
+    "skylight" : [
+                  "window"
+                  ],
+    "coffee" : [
+                "espresso",
+                "latte"
+                ],
+    "starch" : [
+                "rice"
+                ],
+    "urn" : [
+             "bottle"
+             ],
+    "trinket" : [
+                 "toy",
+                 "bracelet"
+                 ],
+    "luncheon" : [
+                  "snack"
+                  ],
+    "marathoning" : [
+                     "track",
+                     "run",
+                     "marathon",
+                     "jog"
+                     ],
+    "tide" : [
+              "wave",
+              "ocean"
+              ],
+    "chocolate" : [
+                   "brown"
+                   ],
+    "volley" : [
+                "volleyball"
+                ],
+    "freedom fries" : [
+                       "fries"
+                       ],
+    "fare" : [
+              "meal"
+              ],
+    "movie house" : [
+                     "movie theater",
+                     "cinema",
+                     "auditorium"
+                     ],
+    "landing" : [
+                 "marina",
+                 "dock",
+                 "harbor"
+                 ],
+    "spice" : [
+               "curry"
+               ],
+    "christmas tree" : [
+                        "pine"
+                        ],
+    "chophouse" : [
+                   "restaurant"
+                   ],
+    "latrine" : [
+                 "bathroom"
+                 ],
+    "french fries" : [
+                      "fries",
+                      "chips"
+                      ],
+    "house" : [
+               "building"
+               ],
+    "flat" : [
+              "apartment"
+              ],
+    "swim trunks" : [
+                     "bathing suit",
+                     "swimsuit"
+                     ],
+    "swell" : [
+               "wave"
+               ],
+    "mortuary" : [
+                  "cemetery",
+                  "graveyard"
+                  ],
+    "young dog" : [
+                   "puppy"
+                   ],
+    "Mac" : [
+             "computer"
+             ],
+    "taper" : [
+               "candle"
+               ],
+    "spring water" : [
+                      "water",
+                      "spring"
+                      ],
+    "creek" : [
+               "river"
+               ],
+    "ice-skate" : [
+                   "skate"
+                   ],
+    "diving" : [
+                "jump",
+                "dive",
+                "plunge"
+                ],
+    "baton" : [
+               "rail"
+               ],
+    "lavatory" : [
+                  "bathroom"
+                  ],
+    "pedagog" : [
+                 "instructor",
+                 "teacher"
+                 ],
+    "patio" : [
+               "garden"
+               ],
+    "educational establishment" : [
+                                   "school"
+                                   ],
+    "lakeshore" : [
+                   "shore",
+                   "coast"
+                   ],
+    "drink" : [
+               "tea",
+               "juice",
+               "tequila",
+               "soda",
+               "cup"
+               ],
+    "seminar" : [
+                 "class"
+                 ],
+    "seashore" : [
+                  "shore",
+                  "beach",
+                  "coast"
+                  ],
+    "monorail" : [
+                  "train"
+                  ],
+    "specialty store" : [
+                         "shop",
+                         "store"
+                         ],
+    "performer" : [
+                   "singer",
+                   "musician"
+                   ],
+    "stag" : [
+              "elk",
+              "deer"
+              ],
+    "emerald" : [
+                 "green"
+                 ],
+    "confection" : [
+                    "dessert",
+                    "sweet"
+                    ],
+    "nib" : [
+             "pen"
+             ],
+    "loaf" : [
+              "bread"
+              ],
+    "heaven" : [
+                "sky"
+                ],
+    "brim" : [
+              "shore",
+              "coast"
+              ],
+    "booklet" : [
+                 "book"
+                 ],
+    "running sock" : [
+                      "sock"
+                      ],
+    "ref" : [
+             "referee"
+             ],
+    "musical device" : [
+                        "instrument"
+                        ],
+    "den" : [
+             "nest"
+             ],
+    "spoon" : [
+               "utensil"
+               ],
+    "broadcasting" : [
+                      "TV"
+                      ],
+    "shag" : [
+              "rug",
+              "carpet"
+              ],
+    "conductor" : [
+                   "musician"
+                   ],
+    "fancy coffee" : [
+                      "latte"
+                      ],
+    "goose" : [
+               "swan",
+               "duck"
+               ],
+    "color printer" : [
+                       "printer"
+                       ],
+    "military personnel" : [
+                            "soldier",
+                            "military personnel"
+                            ],
+    "undergarment" : [
+                      "underwear"
+                      ],
+    "kilt" : [
+              "skirt"
+              ],
+    "orca" : [
+              "whale"
+              ],
+    "illustration" : [
+                      "drawing"
+                      ],
+    "scow" : [
+              "ship"
+              ],
+    "midnight snack" : [
+                        "snack"
+                        ],
+    "jetski" : [
+                "motorboat",
+                "jet ski"
+                ],
+    "platter" : [
+                 "plate"
+                 ],
+    "corn" : [
+              "popcorn"
+              ],
+    "elevated railway" : [
+                          "train"
+                          ],
+    "hat" : [
+             "sombrero",
+             "headdress"
+             ],
+    "vine" : [
+              "plant"
+              ],
+    "cartoon" : [
+                 "drawing"
+                 ],
+    "jersey" : [
+                "sweater",
+                "shirt"
+                ],
+    "seeding" : [
+                 "plant"
+                 ],
+    "billet" : [
+                "rail"
+                ],
+    "creature" : [
+                  "animal"
+                  ],
+    "broom ball" : [
+                    "ice hockey",
+                    "hockey"
+                    ],
+    "porthole" : [
+                  "window"
+                  ],
+    "penthouse" : [
+                   "apartment"
+                   ],
+    "military man" : [
+                      "soldier",
+                      "military personnel"
+                      ],
+    "recreational sport" : [
+                            "sports"
+                            ],
+    "stream" : [
+                "river"
+                ],
+    "street" : [
+                "path",
+                "road"
+                ],
+    "influx" : [
+                "wave"
+                ],
+    "cross-country" : [
+                       "skiing"
+                       ],
+    "stadium" : [
+                 "ballpark"
+                 ],
+    "camcorder" : [
+                   "camera"
+                   ],
+    "tandem" : [
+                "bicycle"
+                ],
+    "pyrotechnic" : [
+                     "fireworks"
+                     ],
+    "passage" : [
+                 "path"
+                 ],
+    "supermarket" : [
+                     "shop",
+                     "store"
+                     ],
+    "waterway" : [
+                  "canal",
+                  "river"
+                  ],
+    "madam" : [
+               "woman",
+               "female"
+               ],
+    "ski" : [
+             "skiing"
+             ],
+    "kiosk" : [
+               "booth"
+               ],
+    "PC" : [
+            "computer"
+            ],
+    "outback" : [
+                 "nature"
+                 ],
+    "tennis shoe" : [
+                     "sneaker",
+                     "shoe",
+                     "footwear"
+                     ],
+    "nibble" : [
+                "snack"
+                ],
+    "satchel" : [
+                 "briefcase",
+                 "luggage",
+                 "purse",
+                 "bag",
+                 "baggage",
+                 "handbag"
+                 ],
+    "petticoat" : [
+                   "skirt"
+                   ],
+    "mister" : [
+                "adult male",
+                "man"
+                ],
+    "marker" : [
+                "pen"
+                ],
+    "government issue" : [
+                          "soldier",
+                          "military personnel"
+                          ],
+    "feed" : [
+              "food"
+              ],
+    "warden" : [
+                "guard"
+                ],
+    "leatherback" : [
+                     "turtle"
+                     ],
+    "backyard" : [
+                  "garden"
+                  ],
+    "summer squash" : [
+                       "zucchini"
+                       ],
+    "private" : [
+                 "soldier",
+                 "military personnel"
+                 ],
+    "wireless phone" : [
+                        "smartphone"
+                        ],
+    "lilac" : [
+               "purple"
+               ],
+    "lorgnette" : [
+                   "glasses"
+                   ],
+    "slough" : [
+                "swamp"
+                ],
+    "anklet" : [
+                "jewelry"
+                ],
+    "pub" : [
+             "club",
+             "nightlife",
+             "nightclub"
+             ],
+    "parlor" : [
+                "room"
+                ],
+    "ivory" : [
+               "elephant"
+               ],
+    "mechanism" : [
+                   "tool"
+                   ],
+    "serviceperson" : [
+                       "soldier",
+                       "military personnel"
+                       ],
+    "wardrobe" : [
+                  "closet",
+                  "clothes"
+                  ],
+    "design" : [
+                "tattoo"
+                ],
+    "hurdle" : [
+                "track",
+                "run",
+                "marathon",
+                "jog"
+                ],
+    "minstrel" : [
+                  "singer"
+                  ],
+    "Red fruit" : [
+                   "apple"
+                   ],
+    "animal" : [
+                "fish",
+                "bird"
+                ],
+    "aqua pura" : [
+                   "water"
+                   ],
+    "frock" : [
+               "coat",
+               "dress"
+               ],
+    "ice house" : [
+                   "igloo"
+                   ],
+    "alcohol" : [
+                 "liquor",
+                 "tequila"
+                 ],
+    "wristwatch" : [
+                    "watch"
+                    ],
+    "assembly hall" : [
+                       "auditorium"
+                       ],
+    "life raft" : [
+                   "boat"
+                   ],
+    "underclothes" : [
+                      "underwear"
+                      ],
+    "emergency vehicle" : [
+                           "ambulance"
+                           ],
+    "emblem" : [
+                "tattoo"
+                ],
+    "gambling" : [
+                  "casino",
+                  "gamble"
+                  ],
+    "blush" : [
+               "pink",
+               "makeup"
+               ],
+    "guard" : [
+               "soldier",
+               "military personnel"
+               ],
+    "high jump" : [
+                   "track",
+                   "run",
+                   "marathon",
+                   "jog"
+                   ],
+    "jumbo shrimp" : [
+                      "shrimp"
+                      ],
+    "sea" : [
+             "ocean"
+             ],
+    "carving" : [
+                 "sculpture"
+                 ],
+    "countryside" : [
+                     "outdoor"
+                     ],
+    "bun" : [
+             "bread"
+             ],
+    "crockery" : [
+                  "pottery"
+                  ],
+    "railway" : [
+                 "train"
+                 ],
+    "desktop" : [
+                 "computer"
+                 ],
+    "handrail" : [
+                  "rail"
+                  ],
+    "television" : [
+                    "TV"
+                    ],
+    "saccharose" : [
+                    "sugar"
+                    ],
+    "rubber-soled shoe" : [
+                           "sneaker"
+                           ],
+    "cuisine" : [
+                 "food"
+                 ],
+    "equestrian" : [
+                    "horse"
+                    ],
+    "subway" : [
+                "train"
+                ],
+    "raptor" : [
+                "bird"
+                ],
+    "flier" : [
+               "pilot"
+               ],
+    "coupe" : [
+               "sports car"
+               ],
+    "bowl" : [
+              "arena",
+              "stadium",
+              "cup"
+              ],
+    "sack" : [
+              "bag"
+              ],
+    "perennial" : [
+                   "flower"
+                   ],
+    "division" : [
+                  "class"
+                  ],
+    "shot put" : [
+                  "track",
+                  "run",
+                  "marathon",
+                  "jog"
+                  ],
+    "snack" : [
+               "food"
+               ],
+    "trolley line" : [
+                      "train"
+                      ],
+    "violet" : [
+                "purple"
+                ],
+    "incline" : [
+                 "slide",
+                 "playground"
+                 ],
+    "backhouse" : [
+                   "bathroom"
+                   ],
+    "raft" : [
+              "boat"
+              ],
+    "Majestic bird" : [
+                       "eagle"
+                       ],
+    "block" : [
+               "wall"
+               ],
+    "topper" : [
+                "headdress"
+                ],
+    "bronze" : [
+                "brown",
+                "statue"
+                ],
+    "camp" : [
+              "cabin"
+              ],
+    "chute" : [
+               "slide",
+               "playground"
+               ],
+    "vino" : [
+              "wine"
+              ],
+    "gizmo" : [
+               "tool"
+               ],
+    "bus" : [
+             "school bus"
+             ],
+    "wild rice" : [
+                   "rice"
+                   ],
+    "chopper" : [
+                 "helicopter",
+                 "motorcycle"
+                 ],
+    "reptile" : [
+                 "lizard"
+                 ],
+    "food store" : [
+                    "supermarket"
+                    ],
+    "ice skate" : [
+                   "skate"
+                   ],
+    "stratosphere" : [
+                      "sky"
+                      ],
+    "choralist" : [
+                   "singer"
+                   ],
+    "long rice" : [
+                   "rice"
+                   ],
+    "citadel" : [
+                 "fort"
+                 ],
+    "cornet" : [
+                "trumpet"
+                ],
+    "flea market" : [
+                     "shopping center",
+                     "mart",
+                     "mall",
+                     "market place",
+                     "market"
+                     ],
+    "sanctuary" : [
+                   "synagogue",
+                   "mosque",
+                   "temple"
+                   ],
+    "open air" : [
+                  "outdoor"
+                  ],
+    "market" : [
+                "shopping center",
+                "shop",
+                "mall",
+                "store"
+                ],
+    "billfold" : [
+                  "handbag",
+                  "bag",
+                  "purse"
+                  ],
+    "reptilia" : [
+                  "reptile"
+                  ],
+    "bog" : [
+             "swamp"
+             ],
+    "footwear" : [
+                  "sock",
+                  "boot"
+                  ],
+    "basketball" : [
+                    "NBA"
+                    ],
+    "eagle" : [
+               "bird"
+               ],
+    "noodles" : [
+                 "spaghetti"
+                 ],
+    "trunk" : [
+               "closet"
+               ],
+    "stubble" : [
+                 "beard"
+                 ],
+    "phone" : [
+               "smartphone"
+               ],
+    "pup" : [
+             "puppy"
+             ],
+    "sprinting" : [
+                   "track",
+                   "run",
+                   "marathon",
+                   "jog"
+                   ],
+    "corner store" : [
+                      "supermarket"
+                      ],
+    "beverage" : [
+                  "soda"
+                  ],
+    "arc of colored light" : [
+                              "rainbow"
+                              ],
+    "footpath" : [
+                  "path"
+                  ],
+    "great blue heron" : [
+                          "bird"
+                          ],
+    "memorial" : [
+                  "statue"
+                  ],
+    "v-neck" : [
+                "shirt"
+                ],
+    "fedora" : [
+                "headdress"
+                ],
+    "crop" : [
+              "fruit"
+              ],
+    "traveler" : [
+                  "tourist"
+                  ],
+    "vacationist" : [
+                     "tourist"
+                     ],
+    "air" : [
+             "sky"
+             ],
+    "lane" : [
+              "path",
+              "road"
+              ],
+    "yoghourt" : [
+                  "yogurt"
+                  ],
+    "personage" : [
+                   "person"
+                   ],
+    "maroon" : [
+                "red"
+                ],
+    "vessel" : [
+                "ship",
+                "yacht",
+                "boat"
+                ],
+    "polaroid" : [
+                  "camera"
+                  ],
+    "little boy's room" : [
+                           "bathroom"
+                           ],
+    "hotel" : [
+               "motel"
+               ],
+    "adornment" : [
+                   "jewelry"
+                   ],
+    "peak" : [
+              "mountain"
+              ],
+    "yacht" : [
+               "ship",
+               "boat"
+               ],
+    "municipality" : [
+                      "city"
+                      ],
+    "burial ground" : [
+                       "cemetery",
+                       "graveyard"
+                       ],
+    "hippopotamus" : [
+                      "hippo"
+                      ],
+    "quad" : [
+              "swamp"
+              ],
+    "broiler" : [
+                 "grill",
+                 "barbeque"
+                 ],
+    "professor" : [
+                   "instructor",
+                   "teacher"
+                   ],
+    "sand dune" : [
+                   "sand",
+                   "dune"
+                   ],
+    "relic" : [
+               "ruin"
+               ],
+    "descendant" : [
+                    "kid",
+                    "child"
+                    ],
+    "undies" : [
+                "underwear"
+                ],
+    "trousers" : [
+                  "denim",
+                  "jeans"
+                  ],
+    "coral reef" : [
+                    "coral"
+                    ],
+    "bottled water" : [
+                       "water",
+                       "spring"
+                       ],
+    "holy place" : [
+                    "synagogue",
+                    "mosque",
+                    "temple"
+                    ],
+    "canteen" : [
+                 "kitchen"
+                 ],
+    "mansion" : [
+                 "home",
+                 "castle",
+                 "villa"
+                 ],
+    "venue" : [
+               "ballpark"
+               ],
+    "harbour" : [
+                 "marina",
+                 "harbor"
+                 ],
+    "cup of joe" : [
+                    "coffee"
+                    ],
+    "domestic fowl" : [
+                       "rooster"
+                       ],
+    "generator" : [
+                   "engine"
+                   ],
+    "Aquatic museum" : [
+                        "fish tank",
+                        "aquarium"
+                        ],
+    "hall" : [
+              "mansion",
+              "house",
+              "castle",
+              "palace"
+              ],
+    "flip-flops" : [
+                    "shoe"
+                    ],
+    "heavens" : [
+                 "sky"
+                 ],
+    "sheet" : [
+               "blanket"
+               ],
+    "small branch" : [
+                      "stick"
+                      ],
+    "eye lashes" : [
+                    "mascara"
+                    ],
+    "passageway" : [
+                    "tunnel",
+                    "path"
+                    ],
+    "armlet" : [
+                "bracelet"
+                ],
+    "ring" : [
+              "arena",
+              "jewelry",
+              "stadium"
+              ],
+    "blouse" : [
+                "T-shirt",
+                "shirt"
+                ],
+    "evergreen" : [
+                   "pine"
+                   ],
+    "running shoe" : [
+                      "sneaker",
+                      "shoe"
+                      ],
+    "saffron" : [
+                 "yellow"
+                 ],
+    "drive" : [
+               "road"
+               ],
+    "marsupial" : [
+                   "kangaroo"
+                   ],
+    "army personnel" : [
+                        "soldier",
+                        "military personnel"
+                        ],
+    "crossbar" : [
+                  "rail"
+                  ],
+    "knapsack" : [
+                  "backpack",
+                  "briefcase"
+                  ],
+    "statuette" : [
+                   "statue"
+                   ],
+    "nation" : [
+                "person",
+                "people"
+                ],
+    "snow flurry" : [
+                     "snow",
+                     "winter"
+                     ],
+    "wall art" : [
+                  "graffiti"
+                  ],
+    "bracelet" : [
+                  "jewelry"
+                  ],
+    "transportation" : [
+                        "taxi",
+                        "cab"
+                        ],
+    "mixed greens" : [
+                      "salad"
+                      ],
+    "limon" : [
+               "lemonade"
+               ],
+    "headwear" : [
+                  "cap",
+                  "hat"
+                  ],
+    "countenance" : [
+                     "face"
+                     ],
+    "lipgloss" : [
+                  "lipstick"
+                  ],
+    "babe" : [
+              "girl",
+              "female"
+              ],
+    "hoofed mammal" : [
+                       "antelope"
+                       ],
+    "grown person" : [
+                      "adult"
+                      ],
+    "hosiery" : [
+                 "sock"
+                 ],
+    "kitty cat" : [
+                   "cat"
+                   ],
+    "navy" : [
+              "blue"
+              ],
+    "geese" : [
+               "swan"
+               ],
+    "lasagna" : [
+                 "pasta"
+                 ],
+    "pop" : [
+             "soda"
+             ],
+    "shrub" : [
+               "plant"
+               ],
+    "lingerie" : [
+                  "underwear"
+                  ],
+    "hangar" : [
+                "airport"
+                ],
+    "towpath" : [
+                 "path"
+                 ],
+    "skiff" : [
+               "ship",
+               "boat"
+               ],
+    "boy" : [
+             "male",
+             "man"
+             ],
+    "hose" : [
+              "sock"
+              ],
+    "comb" : [
+              "brush"
+              ],
+    "jockey shorts" : [
+                       "underwear"
+                       ],
+    "set up camp" : [
+                     "camping"
+                     ],
+    "waterfront" : [
+                    "shore",
+                    "beach",
+                    "coast"
+                    ],
+    "mart" : [
+              "shopping center",
+              "mall"
+              ],
+    "amphitheater" : [
+                      "arena",
+                      "stadium",
+                      "auditorium"
+                      ],
+    "fen" : [
+             "swamp"
+             ],
+    "minor" : [
+               "baby",
+               "child"
+               ],
+    "tuxedo" : [
+                "suit"
+                ],
+    "marketplace" : [
+                     "mart",
+                     "market place",
+                     "market"
+                     ],
+    "pond" : [
+              "lake"
+              ],
+    "entertainer" : [
+                     "musician"
+                     ],
+    "sport" : [
+               "wrestling",
+               "baseball"
+               ],
+    "ribbon" : [
+                "bow"
+                ],
+    "pot" : [
+             "bucket"
+             ],
+    "military" : [
+                  "soldier"
+                  ],
+    "jar" : [
+             "bottle"
+             ],
+    "celebration" : [
+                     "party",
+                     "fireworks",
+                     "wedding"
+                     ],
+    "musical equipment" : [
+                           "instrument"
+                           ],
+    "great white heron" : [
+                           "bird"
+                           ],
+    "apparel" : [
+                 "clothes"
+                 ],
+    "refuge" : [
+                "nest"
+                ],
+    "landscape" : [
+                   "outdoor"
+                   ],
+    "luggage" : [
+                 "bag",
+                 "suitcase"
+                 ],
+    "pump" : [
+              "shoe"
+              ],
+    "outpouring" : [
+                    "natural spring",
+                    "spring",
+                    "fountain"
+                    ],
+    "adit" : [
+              "tunnel"
+              ],
+    "water closet" : [
+                      "bathroom"
+                      ],
+    "artiste" : [
+                 "singer"
+                 ],
+    "underthings" : [
+                     "underwear"
+                     ],
+    "pothole" : [
+                 "cave"
+                 ],
+    "tshirt" : [
+                "shirt"
+                ],
+    "thermal spring" : [
+                        "natural spring",
+                        "spring",
+                        "fountain"
+                        ],
+    "snowfall" : [
+                  "snow",
+                  "winter"
+                  ],
+    "tramcar" : [
+                 "tram",
+                 "trolley",
+                 "cable car"
+                 ],
+    "shower" : [
+                "bathtub"
+                ],
+    "parkway" : [
+                 "road"
+                 ],
+    "cocoa" : [
+               "brown"
+               ],
+    "inlet" : [
+               "harbor",
+               "port"
+               ],
+    "pedagogue" : [
+                   "instructor",
+                   "teacher"
+                   ],
+    "luncheonette" : [
+                      "restaurant"
+                      ],
+    "limeade" : [
+                 "lemonade"
+                 ],
+    "sand" : [
+              "shore",
+              "gravel",
+              "coast"
+              ],
+    "schooner" : [
+                  "ship"
+                  ],
+    "quarterback" : [
+                     "football player"
+                     ],
+    "blaze" : [
+               "fire"
+               ],
+    "seacoast" : [
+                  "shore",
+                  "coast"
+                  ],
+    "fork" : [
+              "utensil"
+              ],
+    "sapling" : [
+                 "tree"
+                 ],
+    "musical instrument" : [
+                            "violin",
+                            "piano",
+                            "fiddle",
+                            "trumpet",
+                            "cello"
+                            ],
+    "turnpike" : [
+                  "road"
+                  ],
+    "high tea" : [
+                  "lunch"
+                  ],
+    "pathway" : [
+                 "path"
+                 ],
+    "bikini" : [
+                "bathing suit",
+                "swimsuit"
+                ],
+    "horse" : [
+               "donkey"
+               ],
+    "resort" : [
+                "motel"
+                ],
+    "wolf spider" : [
+                     "spider"
+                     ],
+    "aviator" : [
+                 "pilot"
+                 ],
+    "homestead" : [
+                   "farm",
+                   "house",
+                   "ranch"
+                   ],
+    "auto" : [
+              "car",
+              "automobile"
+              ],
+    "lawn" : [
+              "farm"
+              ],
+    "pasture" : [
+                 "farm"
+                 ],
+    "berth" : [
+               "dock"
+               ],
+    "chapel" : [
+                "mosque",
+                "church"
+                ],
+    "infant" : [
+                "kid",
+                "toddler",
+                "child"
+                ],
+    "teenager" : [
+                  "kid",
+                  "toddler",
+                  "child"
+                  ],
+    "sailboat" : [
+                  "ship",
+                  "boat"
+                  ],
+    "songster" : [
+                  "singer"
+                  ],
+    "squash" : [
+                "zucchini"
+                ],
+    "cutter" : [
+                "knife"
+                ],
+    "brochure" : [
+                  "book"
+                  ],
+    "party" : [
+               "wedding"
+               ],
+    "structure" : [
+                   "building"
+                   ],
+    "swampland" : [
+                   "swamp"
+                   ],
+    "sunlight" : [
+                  "sun",
+                  "sunny",
+                  "sunset",
+                  "sunrise"
+                  ],
+    "fountain pen" : [
+                      "pen"
+                      ],
+    "appliance" : [
+                   "tool"
+                   ],
+    "grain" : [
+               "rice",
+               "berry"
+               ],
+    "throughway" : [
+                    "road"
+                    ],
+    "Estate" : [
+                "mansion",
+                "house"
+                ],
+    "gentleman" : [
+                   "male",
+                   "adult male",
+                   "man"
+                   ],
+    "snack food" : [
+                    "snack"
+                    ],
+    "warplane" : [
+                  "plane"
+                  ],
+    "greco-roman" : [
+                     "wrestling"
+                     ],
+    "lime" : [
+              "lemonade",
+              "green"
+              ],
+    "goalie stick" : [
+                      "stick"
+                      ],
+    "night life" : [
+                    "club",
+                    "nightlife",
+                    "nightclub"
+                    ],
+    "chestnut" : [
+                  "brown"
+                  ],
+    "pit" : [
+             "arena",
+             "stadium"
+             ],
+    "cot" : [
+             "bed"
+             ],
+    "mineral water" : [
+                       "water",
+                       "spring"
+                       ],
+    "tiny meal" : [
+                   "snack"
+                   ],
+    "comfort station" : [
+                         "bathroom"
+                         ],
+    "floor covering" : [
+                        "rug",
+                        "carpet"
+                        ],
+    "outfit" : [
+                "costume"
+                ],
+    "bed and breakfast" : [
+                           "resort",
+                           "inn",
+                           "hotel"
+                           ],
+    "gateway" : [
+                 "door"
+                 ],
+    "shell" : [
+               "clam"
+               ],
+    "field hockey stick" : [
+                            "stick"
+                            ],
+    "fructose" : [
+                  "sugar"
+                  ],
+    "cyborg" : [
+                "robot"
+                ],
+    "suitcase" : [
+                  "baggage",
+                  "luggage"
+                  ],
+    "footgear" : [
+                  "sneaker",
+                  "footwear"
+                  ],
+    "bath" : [
+              "shower",
+              "bathtub"
+              ],
+    "torch" : [
+               "candle"
+               ],
+    "egret" : [
+               "bird"
+               ],
+    "thoroughfare" : [
+                      "road"
+                      ],
+    "geyser" : [
+                "natural spring",
+                "spring",
+                "fountain"
+                ],
+    "repository" : [
+                    "closet"
+                    ],
+    "h2o" : [
+             "water",
+             "spring"
+             ],
+    "cell phone" : [
+                    "phone",
+                    "smartphone",
+                    "telephone"
+                    ],
+    "female" : [
+                "woman",
+                "lady"
+                ],
+    "hoagie" : [
+                "sandwich"
+                ],
+    "fish" : [
+              "fish tank",
+              "aquarium"
+              ],
+    "pest" : [
+              "insect"
+              ],
+    "little girl's room" : [
+                            "bathroom"
+                            ],
+    "shopping mall" : [
+                       "shopping center",
+                       "mall"
+                       ],
+    "shed" : [
+              "barn"
+              ],
+    "fortification" : [
+                       "wall"
+                       ],
+    "auburn" : [
+                "red"
+                ],
+    "underground railway" : [
+                             "train"
+                             ],
+    "mixed drink" : [
+                     "alcohol"
+                     ],
+    "marshland" : [
+                   "swamp"
+                   ],
+    "gravel" : [
+                "rock"
+                ],
+    "carve" : [
+               "sculpture"
+               ],
+    "fountain drink" : [
+                        "soft drink"
+                        ],
+    "cartilaginous fish" : [
+                            "stingray"
+                            ],
+    "lounge chair" : [
+                      "couch"
+                      ],
+    "channel" : [
+                 "tunnel",
+                 "canal",
+                 "waterway",
+                 "river",
+                 "watercourse"
+                 ],
+    "basin" : [
+               "lake"
+               ],
+    "dog" : [
+             "sheepdog",
+             "bulldog",
+             "pug",
+             "dog",
+             "poodle",
+             "sheep dog",
+             "hunting dog",
+             "golden retriever",
+             "shepherd dog",
+             "terrier",
+             "retriever"
+             ],
+    "drawer" : [
+                "underwear"
+                ],
+    "cavern" : [
+                "cave"
+                ],
+    "kitty" : [
+               "cat"
+               ],
+    "vestige" : [
+                 "ruin"
+                 ],
+    "gazelle" : [
+                 "antelope"
+                 ],
+    "swimsuit" : [
+                  "bikini"
+                  ],
+    "conveyor" : [
+                  "elevator"
+                  ],
+    "earth's atmosphere" : [
+                            "sky"
+                            ],
+    "manual" : [
+                "book"
+                ],
+    "gusher" : [
+                "geyser"
+                ],
+    "soft beverage" : [
+                       "soft drink"
+                       ],
+    "padding" : [
+                 "pillow",
+                 "cushion"
+                 ],
+    "structure composition" : [
+                               "architecture"
+                               ],
+    "fellow" : [
+                "male",
+                "man"
+                ],
+    "graduate" : [
+                  "graduation"
+                  ],
+    "hiking sock" : [
+                     "sock"
+                     ],
+    "pluot" : [
+               "plum"
+               ],
+    "knit" : [
+              "sweater"
+              ],
+    "sweats" : [
+                "sweatshirt"
+                ],
+    "manta ray" : [
+                   "stingray"
+                   ],
+    "bnb" : [
+             "resort",
+             "inn",
+             "hotel"
+             ],
+    "cradle" : [
+                "bed"
+                ],
+    "health club" : [
+                     "arena",
+                     "stadium"
+                     ],
+    "roadhouse" : [
+                   "casino",
+                   "gamble"
+                   ],
+    "figurine" : [
+                  "doll"
+                  ],
+    "rod" : [
+             "rail"
+             ],
+    "linebacker" : [
+                    "football player"
+                    ],
+    "jacuzzi" : [
+                 "bathtub"
+                 ],
+    "cattle" : [
+                "cow"
+                ],
+    "cookout" : [
+                 "picnic"
+                 ],
+    "pail" : [
+              "bucket"
+              ],
+    "city bird" : [
+                   "pigeon"
+                   ],
+    "fruit blend" : [
+                     "smoothie",
+                     "fruit smoothie"
+                     ],
+    "popping corn" : [
+                      "popcorn"
+                      ],
+    "syrup" : [
+               "juice"
+               ],
+    "field house" : [
+                     "arena",
+                     "stadium"
+                     ],
+    "ozone" : [
+               "sky"
+               ],
+    "blonde" : [
+                "yellow"
+                ],
+    "maillot" : [
+                 "bathing suit",
+                 "swimsuit"
+                 ],
+    "pocket watch" : [
+                      "watch"
+                      ],
+    "glide" : [
+               "skate",
+               "ice skating"
+               ],
+    "brink" : [
+               "shore",
+               "coast"
+               ],
+    "half-and-half" : [
+                       "milk"
+                       ],
+    "high-rise" : [
+                   "tower",
+                   "apartment",
+                   "skyscraper"
+                   ],
+    "headgear" : [
+                  "cap",
+                  "hat"
+                  ],
+    "teen" : [
+              "kid",
+              "toddler",
+              "child"
+              ],
+    "hawk" : [
+              "bird"
+              ],
+    "ceremony" : [
+                  "wedding"
+                  ],
+    "multiplex" : [
+                   "movie theater",
+                   "cinema"
+                   ],
+    "human being" : [
+                     "person"
+                     ],
+    "skin" : [
+              "tattoo"
+              ],
+    "fortress" : [
+                  "fort"
+                  ],
+    "sub" : [
+             "sandwich"
+             ],
+    "grub" : [
+              "food",
+              "snack"
+              ],
+    "jungle" : [
+                "nature"
+                ],
+    "arbitrator" : [
+                    "referee"
+                    ],
+    "dwelling" : [
+                  "home",
+                  "castle",
+                  "palace",
+                  "house"
+                  ],
+    "motor" : [
+               "engine"
+               ],
+    "antelope" : [
+                  "gazelle"
+                  ],
+    "plaza" : [
+               "shopping center",
+               "mall"
+               ],
+    "soccer sock" : [
+                     "sock"
+                     ],
+    "lineage" : [
+                 "family"
+                 ],
+    "park" : [
+              "ballpark",
+              "playground"
+              ],
+    "lunchroom" : [
+                   "restaurant"
+                   ],
+    "place of worship" : [
+                          "synagogue",
+                          "mosque",
+                          "temple"
+                          ],
+    "ice rink" : [
+                  "rink"
+                  ],
+    "blond" : [
+               "yellow"
+               ],
+    "contestant" : [
+                    "athlete",
+                    "jock"
+                    ],
+    "coastline" : [
+                   "shore",
+                   "beach",
+                   "coast"
+                   ],
+    "yacht harbor" : [
+                      "marina",
+                      "harbor"
+                      ],
+    "freeway" : [
+                 "road"
+                 ],
+    "buttermilk" : [
+                    "milk"
+                    ],
+    "pillow" : [
+                "cushion"
+                ],
+    "clutch" : [
+                "handbag",
+                "bag",
+                "purse"
+                ],
+    "paddle boat" : [
+                     "canoe"
+                     ],
+    "taxi cab" : [
+                  "taxi",
+                  "cab"
+                  ],
+    "jungle gym" : [
+                    "playground"
+                    ],
+    "thruway" : [
+                 "road"
+                 ],
+    "step" : [
+              "stair"
+              ],
+    "strudel" : [
+                 "pastry"
+                 ],
+    "lifeboat" : [
+                  "boat"
+                  ],
+    "paseo" : [
+               "path"
+               ],
+    "tortoise" : [
+                  "turtle"
+                  ],
+    "night club" : [
+                    "club",
+                    "nightlife",
+                    "nightclub"
+                    ],
+    "barrier" : [
+                 "wall",
+                 "fort"
+                 ],
+    "youth" : [
+               "kid",
+               "toddler",
+               "child"
+               ],
+    "sculpture" : [
+                   "statue"
+                   ],
+    "large home" : [
+                    "villa"
+                    ],
+    "puppie" : [
+                "puppy"
+                ],
+    "coast" : [
+               "shore",
+               "beach",
+               "coast"
+               ],
+    "carmine" : [
+                 "red"
+                 ],
+    "slipover" : [
+                  "sweater",
+                  "shirt"
+                  ],
+    "eyelashes" : [
+                   "mascara"
+                   ],
+    "composer" : [
+                  "musician"
+                  ],
+    "shore" : [
+               "beach",
+               "coast"
+               ],
+    "paddling" : [
+                  "row"
+                  ],
+    "passenger car" : [
+                       "taxi",
+                       "cab"
+                       ],
+    "pennant" : [
+                 "flag"
+                 ],
+    "hen" : [
+             "chicken"
+             ],
+    "big ring" : [
+                  "bling"
+                  ],
+    "Herbs" : [
+               "vegetable",
+               "greens"
+               ],
+    "hockey game" : [
+                     "ice hockey",
+                     "hockey"
+                     ],
+    "veg" : [
+             "vegetable"
+             ],
+    "bodega" : [
+                "supermarket"
+                ],
+    "vacation home" : [
+                       "villa"
+                       ],
+    "flower" : [
+                "plant",
+                "viola",
+                "sunflower",
+                "daisy"
+                ],
+    "tank top" : [
+                  "shirt"
+                  ],
+    "lineman" : [
+                 "football player"
+                 ],
+    "seaside" : [
+                 "shore",
+                 "coast"
+                 ],
+    "tossed salad" : [
+                      "salad"
+                      ],
+    "slush" : [
+               "snow",
+               "winter"
+               ],
+    "metropolitan" : [
+                      "downtown"
+                      ],
+    "artwork" : [
+                 "art",
+                 "graphics"
+                 ],
+    "recreation area" : [
+                         "playground"
+                         ],
+    "day-tripped" : [
+                     "tourist"
+                     ],
+    "hippodrome" : [
+                    "arena",
+                    "stadium"
+                    ],
+    "mini skirt" : [
+                    "skirt"
+                    ],
+    "engineering" : [
+                     "architecture"
+                     ],
+    "voyager" : [
+                 "tourist"
+                 ],
+    "confectionary" : [
+                       "bakery"
+                       ],
+    "munchies" : [
+                  "snack"
+                  ],
+    "football" : [
+                  "soccer"
+                  ],
+    "canine" : [
+                "puppy"
+                ],
+    "banister" : [
+                  "rail"
+                  ],
+    "straw hat" : [
+                   "sombrero"
+                   ],
+    "chow" : [
+              "food"
+              ],
+    "dairy" : [
+               "yogurt",
+               "dairy"
+               ],
+    "factory" : [
+                 "office"
+                 ],
+    "sport car" : [
+                   "sports car"
+                   ],
+    "study session" : [
+                       "read",
+                       "study room",
+                       "study"
+                       ],
+    "shopping complex" : [
+                          "mart",
+                          "market place",
+                          "market"
+                          ],
+    "concert\/music hall" : [
+                             "auditorium"
+                             ],
+    "sporting equipment" : [
+                            "sports equipment"
+                            ],
+    "recreation center" : [
+                           "arena",
+                           "stadium"
+                           ],
+    "hostel" : [
+                "resort",
+                "motel",
+                "hotel",
+                "inn"
+                ],
+    "t-shirt" : [
+                 "shirt"
+                 ],
+    "family" : [
+                "person",
+                "people"
+                ],
+    "aqua" : [
+              "blue",
+              "water"
+              ],
+    "crimson" : [
+                 "red"
+                 ],
+    "human" : [
+               "person"
+               ],
+    "mac" : [
+             "laptop"
+             ],
+    "woman" : [
+               "person",
+               "lady",
+               "female"
+               ],
+    "gala" : [
+              "party"
+              ],
+    "sneaker" : [
+                 "shoe",
+                 "footwear"
+                 ],
+    "valley" : [
+                "canyon"
+                ],
+    "rooster" : [
+                 "chicken"
+                 ],
+    "sumo" : [
+              "wrestling"
+              ],
+    "chain store" : [
+                     "shop",
+                     "store"
+                     ],
+    "berry" : [
+               "fruit"
+               ],
+    "individual" : [
+                    "party",
+                    "person"
+                    ],
+    "brassiere" : [
+                   "woman's clothing"
+                   ],
+    "seat" : [
+              "chair"
+              ],
+    "coon" : [
+              "raccoon"
+              ],
+    "discussion" : [
+                    "class"
+                    ],
+    "university" : [
+                    "school"
+                    ],
+    "lipstick" : [
+                  "makeup"
+                  ],
+    "silverware" : [
+                    "utensil"
+                    ],
+    "skating rink" : [
+                      "rink"
+                      ],
+    "preparatory school" : [
+                            "school"
+                            ],
+    "tub" : [
+             "bathtub"
+             ],
+    "yellow rice" : [
+                     "rice"
+                     ],
+    "dock" : [
+              "harbor",
+              "dock",
+              "pier",
+              "port"
+              ],
+    "pineapple" : [
+                   "pineapple"
+                   ],
+    "goggles" : [
+                 "glasses"
+                 ],
+    "storehouse" : [
+                    "warehouse"
+                    ],
+    "sol" : [
+             "sun",
+             "sunny",
+             "sunset",
+             "sunrise"
+             ],
+    "soldier" : [
+                 "military personnel"
+                 ],
+    "Chaps" : [
+               "denim",
+               "jeans"
+               ],
+    "boxers" : [
+                "underwear"
+                ],
+    "bisque" : [
+                "yellow"
+                ],
+    "building design" : [
+                         "architecture"
+                         ],
+    "booze" : [
+               "tequila",
+               "alcohol"
+               ],
+    "sunshine" : [
+                  "light"
+                  ],
+    "chateau" : [
+                 "villa"
+                 ],
+    "hockey-skate" : [
+                      "skate"
+                      ],
+    "firefighter" : [
+                     "fireman"
+                     ],
+    "outflow" : [
+                 "natural spring",
+                 "spring",
+                 "fountain"
+                 ],
+    "amethyst" : [
+                  "purple"
+                  ],
+    "porpoise" : [
+                  "whale",
+                  "dolphin"
+                  ],
+    "ass" : [
+             "donkey"
+             ],
+    "duckling" : [
+                  "duck"
+                  ],
+    "wharf" : [
+               "harbor",
+               "dock",
+               "pier",
+               "port"
+               ],
+    "hump" : [
+              "camel"
+              ],
+    "smallclothes" : [
+                      "underwear"
+                      ],
+    "android" : [
+                 "robot"
+                 ],
+    "dude" : [
+              "male",
+              "man"
+              ],
+    "mule" : [
+              "donkey"
+              ],
+    "fountain" : [
+                  "geyser"
+                  ],
+    "pundit" : [
+                "instructor",
+                "teacher"
+                ],
+    "catamaran" : [
+                   "boat"
+                   ],
+    "canister" : [
+                  "bucket"
+                  ],
+    "toiletry" : [
+                  "cosmetic"
+                  ],
+    "features" : [
+                  "face"
+                  ],
+    "man" : [
+             "person"
+             ],
+    "miss" : [
+              "girl",
+              "female"
+              ],
+    "overcoat" : [
+                  "coat"
+                  ],
+    "streetcar line" : [
+                        "train"
+                        ],
+    "mind game" : [
+                   "puzzle"
+                   ],
+    "fern" : [
+              "green"
+              ],
+    "canal" : [
+               "waterway",
+               "watercourse"
+               ],
+    "sapphire" : [
+                  "blue"
+                  ],
+    "fur" : [
+             "hair"
+             ],
+    "invertebrate" : [
+                      "shrimp"
+                      ],
+    "society" : [
+                 "person",
+                 "people"
+                 ],
+    "flowers" : [
+                 "floral",
+                 "flower"
+                 ],
+    "designer water" : [
+                        "water",
+                        "spring"
+                        ],
+    "trainer" : [
+                 "instructor",
+                 "teacher"
+                 ],
+    "palace" : [
+                "mansion",
+                "house",
+                "castle"
+                ],
+    "greens" : [
+                "salad"
+                ],
+    "first meal of the day" : [
+                               "breakfast"
+                               ],
+    "ballerina" : [
+                   "dancer"
+                   ],
+    "cabin" : [
+               "home"
+               ],
+    "outrigger" : [
+                   "kayak",
+                   "canoe"
+                   ],
+    "costume" : [
+                 "dress"
+                 ],
+    "weed" : [
+              "plant"
+              ],
+    "seedling" : [
+                  "tree"
+                  ],
+    "piece" : [
+               "art",
+               "graphics"
+               ],
+    "frames" : [
+                "glasses"
+                ],
+    "headset" : [
+                 "headphones"
+                 ],
+    "baseball bat" : [
+                      "bat"
+                      ],
+    "bust" : [
+              "statue"
+              ],
+    "small boat" : [
+                    "boat"
+                    ],
+    "fog" : [
+             "cloud"
+             ],
+    "mat" : [
+             "rug",
+             "carpet"
+             ],
+    "peer" : [
+              "dock"
+              ],
+    "coca cola" : [
+                   "Coke"
+                   ],
+    "bruin" : [
+               "bear"
+               ],
+    "crowd" : [
+               "person",
+               "people"
+               ],
+    "lactose" : [
+                 "dairy"
+                 ],
+    "choker" : [
+                "necklace"
+                ],
+    "terrace" : [
+                 "garden"
+                 ],
+    "buck" : [
+              "deer",
+              "goat"
+              ],
+    "chapeau" : [
+                 "headdress"
+                 ],
+    "tusk" : [
+              "elephant"
+              ],
+    "valise" : [
+                "baggage",
+                "luggage"
+                ],
+    "makeup" : [
+                "cosmetic"
+                ],
+    "doughnut" : [
+                  "donut"
+                  ],
+    "gun dog" : [
+                 "hunting dog"
+                 ],
+    "bite to eat" : [
+                     "snack"
+                     ],
+    "terrapin" : [
+                  "turtle"
+                  ],
+    "evening meal" : [
+                      "dinner",
+                      "meal",
+                      "supper"
+                      ],
+    "long johns" : [
+                    "underwear"
+                    ],
+    "tower" : [
+               "skyscraper"
+               ],
+    "cloak" : [
+               "cape",
+               "coat"
+               ],
+    "upsurge" : [
+                 "wave"
+                 ],
+    "clothespress" : [
+                      "closet"
+                      ],
+    "bbq" : [
+             "grill",
+             "barbeque"
+             ],
+    "panties" : [
+                 "underwear"
+                 ],
+    "eatery" : [
+                "restaurant"
+                ],
+    "serenader" : [
+                   "singer"
+                   ],
+    "extract" : [
+                 "juice"
+                 ],
+    "bonbon" : [
+                "pastry",
+                "candy"
+                ],
+    "motor vehicle" : [
+                       "car",
+                       "automobile"
+                       ],
+    "diva" : [
+              "singer"
+              ],
+    "beige" : [
+               "brown"
+               ],
+    "rose" : [
+              "pink"
+              ],
+    "entity" : [
+                "person"
+                ],
+    "temple" : [
+                "synagogue",
+                "mosque",
+                "temple"
+                ],
+    "midi skirt" : [
+                    "skirt"
+                    ],
+    "milk" : [
+              "dairy"
+              ],
+    "rations" : [
+                 "food"
+                 ],
+    "cafeteria" : [
+                   "restaurant"
+                   ],
+    "logo" : [
+              "mascot"
+              ],
+    "expressway" : [
+                    "road"
+                    ],
+    "doodle" : [
+                "graffiti",
+                "drawing"
+                ],
+    "toddler" : [
+                 "newborn",
+                 "baby",
+                 "infant"
+                 ],
+    "academy" : [
+                 "school"
+                 ],
+    "character" : [
+                   "person"
+                   ],
+    "brother" : [
+                 "male",
+                 "man"
+                 ],
+    "discount store" : [
+                        "shop",
+                        "store"
+                        ],
+    "girl" : [
+              "lady",
+              "female"
+              ],
+    "sketch" : [
+                "drawing"
+                ],
+    "backwoods" : [
+                   "nature"
+                   ],
+    "highway" : [
+                 "road"
+                 ],
+    "liquor" : [
+                "tequila"
+                ],
+    "tote" : [
+              "bag"
+              ],
+    "estate" : [
+                "farm"
+                ],
+    "crustacean" : [
+                    "crab",
+                    "shrimp"
+                    ],
+    "airliner" : [
+                  "plane"
+                  ],
+    "bazaar" : [
+                "shopping center",
+                "mart",
+                "mall",
+                "market place",
+                "market"
+                ],
+    "b-ball" : [
+                "basketball"
+                ],
+    "ice chest" : [
+                   "fridge",
+                   "refrigerator"
+                   ],
+    "pitch tents" : [
+                     "camping"
+                     ],
+    "get-together" : [
+                      "party"
+                      ],
+    "matting" : [
+                 "rug",
+                 "carpet"
+                 ],
+    "living soul" : [
+                     "person"
+                     ],
+    "ingot" : [
+               "rail"
+               ],
+    "superstructure" : [
+                        "skyscraper"
+                        ],
+    "stove" : [
+               "oven"
+               ],
+    "offshoot" : [
+                  "stick"
+                  ],
+    "men's room" : [
+                    "bathroom"
+                    ],
+    "lecture" : [
+                 "class"
+                 ],
+    "salon" : [
+               "room"
+               ],
+    "sauce" : [
+               "condiment"
+               ],
+    "surge" : [
+               "wave"
+               ],
+    "console" : [
+                 "keyboard"
+                 ],
+    "animal shelter" : [
+                        "barn"
+                        ],
+    "firecrackers" : [
+                      "fireworks"
+                      ],
+    "snow crystal" : [
+                      "snow",
+                      "winter"
+                      ],
+    "brown rice" : [
+                    "rice"
+                    ],
+    "ruminant" : [
+                  "antelope"
+                  ],
+    "hare" : [
+              "bunny",
+              "rabbit"
+              ],
+    "goatee" : [
+                "beard"
+                ],
+    "public" : [
+                "person",
+                "people"
+                ],
+    "whip" : [
+              "motorcycle"
+              ],
+    "top" : [
+             "T-shirt",
+             "woman's clothing",
+             "shirt"
+             ],
+    "veranda" : [
+                 "terrace",
+                 "patio"
+                 ],
+    "scarlet" : [
+                 "red"
+                 ],
+    "watercourse" : [
+                     "canal",
+                     "river"
+                     ],
+    "laser printer" : [
+                       "printer"
+                       ],
+    "verdure" : [
+                 "vegetable"
+                 ],
+    "military person" : [
+                         "soldier",
+                         "military personnel"
+                         ],
+    "blizzard" : [
+                  "snow",
+                  "winter"
+                  ],
+    "antarctica" : [
+                    "penguin"
+                    ],
+    "blockade" : [
+                  "wall",
+                  "fort"
+                  ],
+    "oyster" : [
+                "clam"
+                ],
+    "grizzly" : [
+                 "bear"
+                 ],
+    "militant" : [
+                  "military personnel"
+                  ],
+    "game equipment" : [
+                        "game"
+                        ],
+    "glucose" : [
+                 "sugar"
+                 ],
+    "hightop" : [
+                 "shoe"
+                 ],
+    "underpants" : [
+                    "underwear"
+                    ],
+    "clock" : [
+               "watch"
+               ],
+    "food mart" : [
+                   "supermarket"
+                   ],
+    "of age" : [
+                "adult"
+                ],
+    "picture" : [
+                 "art",
+                 "graphics"
+                 ],
+    "refreshment" : [
+                     "snack",
+                     "beverage",
+                     "drink"
+                     ],
+    "concession" : [
+                    "shop",
+                    "store"
+                    ],
+    "hangout" : [
+                 "club",
+                 "nightlife",
+                 "nightclub"
+                 ],
+    "four eyes" : [
+                   "glasses"
+                   ],
+    "cetacean mammal" : [
+                         "whale"
+                         ],
+    "coleslaw" : [
+                  "salad"
+                  ],
+    "bathing costume" : [
+                         "bathing suit",
+                         "swimsuit"
+                         ],
+    "running" : [
+                 "track",
+                 "run",
+                 "marathon",
+                 "jog"
+                 ],
+    "entryway" : [
+                  "door"
+                  ],
+    "avenue" : [
+                "path",
+                "road"
+                ],
+    "yodeler" : [
+                 "singer"
+                 ],
+    "riverbank" : [
+                   "shore",
+                   "coast"
+                   ],
+    "cloudy" : [
+                "cloud"
+                ],
+    "community" : [
+                   "person",
+                   "people"
+                   ],
+    "marine exhibit" : [
+                        "fish tank",
+                        "aquarium"
+                        ],
+    "cast" : [
+              "sculpture"
+              ],
+    "food" : [
+              "lawn",
+              "sushi",
+              "table",
+              "grass",
+              "spaghetti",
+              "pizza"
+              ],
+    "arachnid" : [
+                  "spider"
+                  ],
+    "high-rise building" : [
+                            "tower",
+                            "skyscraper"
+                            ],
+    "upholstered furniture" : [
+                               "couch"
+                               ],
+    "specialty shop" : [
+                        "shop",
+                        "store"
+                        ],
+    "eats" : [
+              "snack"
+              ],
+    "rollerskate" : [
+                     "skate"
+                     ],
+    "congregation" : [
+                      "group",
+                      "crowd",
+                      "people"
+                      ],
+    "display" : [
+                 "monitor"
+                 ],
+    "tackler" : [
+                 "football player"
+                 ],
+    "runway" : [
+                "airport"
+                ],
+    "schoolteacher" : [
+                       "instructor",
+                       "teacher"
+                       ],
+    "veggie" : [
+                "vegetable"
+                ],
+    "metro" : [
+               "train"
+               ],
+    "timepiece" : [
+                   "watch"
+                   ],
+    "coca-cola" : [
+                   "Coke"
+                   ],
+    "toy" : [
+             "kite"
+             ],
+    "baleen" : [
+                "whale"
+                ],
+    "jet" : [
+             "plane"
+             ],
+    "shrine" : [
+                "mosque"
+                ],
+    "guy" : [
+             "male",
+             "adult male",
+             "man"
+             ],
+    "hoops" : [
+               "basketball"
+               ],
+    "sleet" : [
+               "snow",
+               "winter"
+               ],
+    "mortal" : [
+                "party",
+                "person"
+                ],
+    "fir" : [
+             "pine"
+             ],
+    "cleaning" : [
+                  "laundry"
+                  ],
+    "pussy" : [
+               "kitty",
+               "cat"
+               ],
+    "natural spring" : [
+                        "water",
+                        "spring"
+                        ],
+    "18 holes" : [
+                  "outdoor",
+                  "golf"
+                  ],
+    "grey" : [
+              "gray"
+              ],
+    "manor" : [
+               "mansion",
+               "house",
+               "villa",
+               "palace"
+               ],
+    "griddle" : [
+                 "grill",
+                 "barbeque"
+                 ],
+    "wallet" : [
+                "handbag",
+                "bag",
+                "purse"
+                ],
+    "chaperon" : [
+                  "guard"
+                  ],
+    "hot tea" : [
+                 "tea"
+                 ],
+    "foundation" : [
+                    "makeup"
+                    ],
+    "entrepot" : [
+                  "warehouse"
+                  ],
+    "barge" : [
+               "ship",
+               "boat"
+               ],
+    "taxicab" : [
+                 "taxi",
+                 "cab"
+                 ],
+    "cold storage" : [
+                      "fridge",
+                      "refrigerator"
+                      ],
+    "coliseum" : [
+                  "arena",
+                  "stadium"
+                  ],
+    "armoire" : [
+                 "closet"
+                 ],
+    "walkway" : [
+                 "path"
+                 ],
+    "morning meal" : [
+                      "breakfast"
+                      ],
+    "cleat" : [
+               "sneaker",
+               "shoe"
+               ],
+    "cellular phone" : [
+                        "smartphone"
+                        ],
+    "tomb" : [
+              "cemetery",
+              "graveyard"
+              ],
+    "port" : [
+              "marina",
+              "harbor"
+              ],
+    "conservatory" : [
+                      "school"
+                      ],
+    "gift store" : [
+                    "shop",
+                    "store"
+                    ],
+    "skivvies" : [
+                  "underwear"
+                  ],
+    "blended fruit" : [
+                       "smoothie",
+                       "fruit smoothie"
+                       ],
+    "pennon" : [
+                "flag"
+                ],
+    "food seasoning" : [
+                        "curry"
+                        ],
+    "chick" : [
+               "egg"
+               ],
+    "tribe" : [
+               "family"
+               ],
+    "throughfare" : [
+                     "path"
+                     ],
+    "water" : [
+               "swim",
+               "swimming pool",
+               "pool"
+               ],
+    "coin purse" : [
+                    "handbag",
+                    "bag",
+                    "purse"
+                    ],
+    "musician" : [
+                  "singer"
+                  ],
+    "paddle" : [
+                "row"
+                ],
+    "cobblestone" : [
+                     "rock"
+                     ],
+    "voice" : [
+               "singer"
+               ],
+    "wireless" : [
+                  "smartphone"
+                  ],
+    "lagoon" : [
+                "lake"
+                ],
+    "gig" : [
+             "concert"
+             ],
+    "gentlemen's room" : [
+                          "bathroom"
+                          ],
+    "jet-setter" : [
+                    "tourist"
+                    ],
+    "boatyard" : [
+                  "marina",
+                  "harbor"
+                  ],
+    "nourishments" : [
+                      "food"
+                      ],
+    "specialist" : [
+                    "doctor"
+                    ],
+    "powder" : [
+                "snow",
+                "winter"
+                ],
+    "gentlewoman" : [
+                     "woman",
+                     "female"
+                     ],
+    "gundog" : [
+                "hunting dog"
+                ],
+    "ark" : [
+             "boat"
+             ],
+    "gorge" : [
+               "canyon"
+               ],
+    "john" : [
+              "bathroom"
+              ],
+    "timber" : [
+                "tree"
+                ],
+    "country" : [
+                 "outdoor"
+                 ],
+    "enigma" : [
+                "puzzle"
+                ],
+    "pastry" : [
+                "dessert",
+                "donut",
+                "sweet"
+                ],
+    "grass" : [
+               "plant"
+               ],
+    "turban" : [
+                "headdress"
+                ],
+    "necklace" : [
+                  "jewelry"
+                  ],
+    "hideaway" : [
+                  "resort",
+                  "inn",
+                  "hotel"
+                  ],
+    "streetcar" : [
+                   "tram",
+                   "trolley",
+                   "train",
+                   "cable car"
+                   ],
+    "pasta" : [
+               "spaghetti"
+               ],
+    "pine tree" : [
+                   "pine"
+                   ],
+    "pullover" : [
+                  "turtleneck",
+                  "sweatshirt",
+                  "sweater"
+                  ],
+    "racing car" : [
+                    "racer",
+                    "race car"
+                    ],
+    "addax" : [
+               "antelope"
+               ],
+    "microwave" : [
+                   "oven"
+                   ],
+    "crossing" : [
+                  "path"
+                  ],
+    "balloon" : [
+                 "bubble"
+                 ],
+    "portmanteau" : [
+                     "baggage",
+                     "luggage"
+                     ],
+    "sweet tea" : [
+                   "tea"
+                   ],
+    "strings" : [
+                 "guitar",
+                 "cello"
+                 ],
+    "deck" : [
+              "terrace",
+              "patio"
+              ],
+    "shade" : [
+               "umbrella"
+               ],
+    "japanese food" : [
+                       "sushi"
+                       ],
+    "verdant" : [
+                 "green"
+                 ],
+    "department store" : [
+                          "shop",
+                          "store"
+                          ],
+    "hot spring" : [
+                    "natural spring",
+                    "spring",
+                    "geyser",
+                    "fountain"
+                    ],
+    "nosh" : [
+              "snack"
+              ],
+    "aisle" : [
+               "path"
+               ],
+    "public transportation" : [
+                               "bus"
+                               ],
+    "tall building" : [
+                       "tower",
+                       "skyscraper"
+                       ],
+    "hut" : [
+             "building"
+             ],
+    "keyboard" : [
+                  "piano"
+                  ],
+    "magenta" : [
+                 "pink"
+                 ],
+    "library" : [
+                 "read",
+                 "study room",
+                 "study"
+                 ],
+    "sarong" : [
+                "skirt"
+                ],
+    "ruby" : [
+              "red"
+              ],
+    "jockey" : [
+                "underwear"
+                ],
+    "beach" : [
+               "shore",
+               "coast"
+               ],
+    "musical performance" : [
+                             "concert"
+                             ],
+    "hart" : [
+              "deer"
+              ],
+    "lamb" : [
+              "sheep"
+              ],
+    "bedrock" : [
+                 "rock"
+                 ],
+    "supper" : [
+                "dinner",
+                "meal"
+                ],
+    "flat faced dog" : [
+                        "pug"
+                        ],
+    "washroom" : [
+                  "bathroom"
+                  ],
+    "vocalist" : [
+                  "singer"
+                  ],
+    "jet plane" : [
+                   "jet"
+                   ],
+    "lavender" : [
+                  "purple"
+                  ],
+    "residency" : [
+                   "house"
+                   ],
+    "intoner" : [
+                 "singer"
+                 ],
+    "ride" : [
+              "motorcycle"
+              ],
+    "jetty" : [
+               "dock",
+               "pier"
+               ],
+    "alc" : [
+             "alcohol"
+             ],
+    "long jump" : [
+                   "track",
+                   "run",
+                   "marathon",
+                   "jog"
+                   ],
+    "snowboarding" : [
+                      "snowboard"
+                      ],
+    "vegetable" : [
+                   "vegetable",
+                   "cucumber"
+                   ],
+    "hog" : [
+             "motorcycle"
+             ],
+    "sculling" : [
+                  "row"
+                  ],
+    "checkered" : [
+                   "plaid"
+                   ],
+    "ship" : [
+              "ship",
+              "yacht",
+              "boat"
+              ],
+    "church" : [
+                "cathedral"
+                ],
+    "drone" : [
+               "robot"
+               ],
+    "physiognomy" : [
+                     "face"
+                     ],
+    "ale" : [
+             "beer"
+             ],
+    "body" : [
+              "person"
+              ],
+    "roll" : [
+              "bread"
+              ],
+    "fighter" : [
+                 "soldier",
+                 "plane",
+                 "military personnel"
+                 ],
+    "bag" : [
+             "baggage",
+             "backpack",
+             "briefcase",
+             "luggage"
+             ],
+    "forest" : [
+                "nature"
+                ],
+    "depositary" : [
+                    "warehouse"
+                    ],
+    "salmon" : [
+                "pink"
+                ],
+    "cover" : [
+               "blanket"
+               ],
+    "racecar" : [
+                 "racer",
+                 "race car",
+                 "sports car"
+                 ],
+    "river" : [
+               "waterway",
+               "watercourse"
+               ],
+    "BBQ" : [
+             "picnic"
+             ],
+    "aircraft" : [
+                  "helicopter",
+                  "plane"
+                  ],
+    "puck" : [
+              "ice hockey",
+              "field hockey",
+              "hockey"
+              ],
+    "feast" : [
+               "meal"
+               ],
+    "lava" : [
+              "rock"
+              ],
+    "mystery" : [
+                 "puzzle"
+                 ],
+    "railroad" : [
+                  "train"
+                  ],
+    "rugby" : [
+               "football"
+               ],
+    "glow" : [
+              "light",
+              "laser"
+              ],
+    "burgundy" : [
+                  "red"
+                  ],
+    "instrumentalist" : [
+                         "musician"
+                         ],
+    "pouch" : [
+               "handbag",
+               "bag",
+               "purse"
+               ],
+    "opera house" : [
+                     "auditorium"
+                     ],
+    "joint" : [
+               "cafe",
+               "coffee shop"
+               ],
+    "polo stick" : [
+                    "stick"
+                    ],
+    "pad" : [
+             "house",
+             "cushion"
+             ],
+    "tram car" : [
+                  "tram",
+                  "trolley",
+                  "cable car"
+                  ],
+    "wave" : [
+              "surf"
+              ],
+    "cornerback" : [
+                    "football player"
+                    ],
+    "sled" : [
+              "Eskimo dog",
+              "husky",
+              "dog"
+              ],
+    "crew" : [
+              "row"
+              ],
+    "silvery" : [
+                 "gray"
+                 ],
+    "hoodie" : [
+                "sweatshirt"
+                ],
+    "throne" : [
+                "bathroom"
+                ],
+    "shelter" : [
+                 "home"
+                 ],
+    "snapper" : [
+                 "turtle"
+                 ],
+    "country house" : [
+                       "villa"
+                       ],
+    "subject" : [
+                 "class"
+                 ],
+    "gondola" : [
+                 "boat"
+                 ],
+    "everglade" : [
+                   "swamp"
+                   ],
+    "flurry" : [
+                "snow",
+                "winter"
+                ],
+    "planter" : [
+                 "pot",
+                 "flowerpot"
+                 ],
+    "school bus" : [
+                    "bus"
+                    ],
+    "emperor penguin" : [
+                         "penguin"
+                         ],
+    "basket" : [
+                "basketball"
+                ],
+    "rodent" : [
+                "hamster",
+                "squirrel"
+                ],
+    "garment" : [
+                 "dress",
+                 "costume"
+                 ],
+    "trolley bus" : [
+                     "tram",
+                     "trolley",
+                     "cable car"
+                     ],
+    "speedcar" : [
+                  "racer",
+                  "race car"
+                  ],
+    "cold-storage box" : [
+                          "fridge",
+                          "refrigerator"
+                          ],
+    "cocktail" : [
+                  "liquor",
+                  "alcohol"
+                  ],
+    "in nature" : [
+                   "outdoor"
+                   ],
+    "atmosphere" : [
+                    "sky"
+                    ],
+    "exercise" : [
+                  "sports"
+                  ],
+    "bar" : [
+             "club",
+             "restaurant",
+             "nightlife",
+             "nightclub"
+             ],
+    "two seater" : [
+                    "sports car"
+                    ],
+    "clarion" : [
+                 "trumpet"
+                 ],
+    "guardian" : [
+                  "guard"
+                  ],
+    "rainwater" : [
+                   "water"
+                   ],
+    "serviceman" : [
+                    "soldier",
+                    "military personnel"
+                    ],
+    "shopping center" : [
+                         "mart",
+                         "market place",
+                         "market"
+                         ],
+    "habitation" : [
+                    "house"
+                    ],
+    "creativity" : [
+                    "art"
+                    ],
+    "chanteuse" : [
+                   "singer"
+                   ],
+    "sleeveless coat" : [
+                         "cape"
+                         ],
+    "arboreal rodent" : [
+                         "squirrel"
+                         ],
+    "blocker" : [
+                 "football player"
+                 ],
+    "burro" : [
+               "donkey"
+               ],
+    "close-fitting collar" : [
+                              "turtleneck",
+                              "sweater"
+                              ],
+    "light meal" : [
+                    "snack"
+                    ],
+    "quilt" : [
+               "blanket"
+               ],
+    "knickknack" : [
+                    "toy"
+                    ],
+    "barricade" : [
+                   "wall",
+                   "fort"
+                   ],
+    "armchair" : [
+                  "chair"
+                  ],
+    "defender" : [
+                  "guard"
+                  ],
+    "cola" : [
+              "soft drink"
+              ],
+    "potty" : [
+               "bathroom"
+               ],
+    "eyelash volumizer" : [
+                           "mascara"
+                           ],
+    "soil" : [
+              "sand"
+              ],
+    "meadow" : [
+                "farm"
+                ],
+    "festivity" : [
+                   "party"
+                   ],
+    "daylight" : [
+                  "light"
+                  ],
+    "Suite" : [
+               "apartment"
+               ],
+    "diner" : [
+               "restaurant",
+               "cafe",
+               "coffee shop"
+               ],
+    "central" : [
+                 "downtown"
+                 ],
+    "soda pop" : [
+                  "soft drink"
+                  ],
+    "color spectrum" : [
+                        "rainbow"
+                        ],
+    "bro" : [
+             "male",
+             "man"
+             ],
+    "facial hair" : [
+                     "beard"
+                     ],
+    "fries" : [
+               "chips"
+               ],
+    "maize" : [
+               "corn"
+               ],
+    "iceberg" : [
+                 "glacier"
+                 ],
+    "folder" : [
+                "briefcase"
+                ],
+    "35mm" : [
+              "camera"
+              ],
+    "bay" : [
+             "harbor",
+             "port"
+             ],
+    "symbol" : [
+                "tattoo",
+                "sign",
+                "mascot"
+                ],
+    "candy" : [
+               "dessert",
+               "sweet"
+               ],
+    "household" : [
+                   "family"
+                   ],
+    "rowing" : [
+                "row"
+                ],
+    "aquatics" : [
+                  "swim",
+                  "swimming pool",
+                  "pool"
+                  ],
+    "ravine" : [
+                "canyon"
+                ],
+    "long skirt" : [
+                    "skirt"
+                    ],
+    "caffe" : [
+               "coffee",
+               "espresso"
+               ],
+    "harbor" : [
+                "dock"
+                ],
+    "quagmire" : [
+                  "swamp"
+                  ],
+    "juice" : [
+               "smoothie",
+               "fruit smoothie"
+               ],
+    "bonfire" : [
+                 "fire"
+                 ],
+    "throw" : [
+               "cushion"
+               ],
+    "ladies' room" : [
+                      "bathroom"
+                      ],
+    "pastry shop" : [
+                     "bakery"
+                     ],
+    "puzzle" : [
+                "game"
+                ],
+    "lacrosse stick" : [
+                        "stick"
+                        ],
+    "being" : [
+               "person"
+               ],
+    "byway" : [
+               "path",
+               "road"
+               ]
+}

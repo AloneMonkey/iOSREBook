@@ -1,0 +1,125 @@
+ANC	Anchorage	AK	USA
+BHM, BHAM, Magic City	Birmingham	AL	USA
+PHX	Phoenix	AZ	USA
+SDL	Scottsdale	AZ	USA
+TUC, Old Pueblo, Optics Valley	Tucson	AZ	USA
+COA	Anaheim	CA	USA
+BFL	Bakersfield	CA	USA
+Bur	Burbank	CA	USA
+Chula-Juana	Chula Vista	CA	USA
+LB	Long Beach	CA	USA
+LAX,LA, La La Land, City of Angels	Los Angeles	CA	USA
+OAK, Oaktown	Oakland	CA	USA
+OC	Orange County	CA	USA
+SAC, sactown, sacto	Sacramento	CA	USA
+SB, San Berdoo, Berdoo	San Bernardino	CA	USA
+SD, SAN	San Diego	CA	USA
+SFO,SF,San Fran,Sanfran	San Francisco	CA	USA
+SJC	San Jose	CA	USA
+SNA	Santa Ana	CA	USA
+SaMo, Santa Monica Beach	Santa Monica	CA	USA
+SCK	Stockton	CA	USA
+Venice Beach, Venice Bch	Venice	CA	USA
+COS,The Springs	Colorado Springs	CO	USA
+DEN, Mile-High City	Denver	CO	USA
+FC, FoCo, FoCoCo, The Fort, Fort Fun	Fort Collins	CO	USA
+DC, the District, Nation's Capital	Washington	DC	USA
+JAX, Jville, J-Ville	Jacksonville	FL	USA
+MIA, Miami Beach, Magic City	Miami	FL	USA
+ORL, O-Town, City Beautiful	Orlando	FL	USA
+StP, St. Pete, Sunshine City	St. Petersburg	FL	USA
+TPA, Big Guava, Cigar City	Tampa	FL	USA
+ATL, The A, A-Town, Hotlanta, Big Peach	Atlanta	GA	USA
+CSG, Fountain City	Columbus	GA	USA
+SAV	Savannah	GA	USA
+HLN,Big Pineapple	Honolulu	HI	USA
+BOI	Boise	ID	USA
+CDA	Coeur d'Alene	ID	USA
+CHI,chi-town,chitown	Chicago	IL	USA
+SPI, Flower city	Springfield	IL	USA
+FWA	Fort Wayne	IN	USA
+Indy	Indianapolis	IN	USA
+ICT, Doo-dah	Wichita	KS	USA
+LEX	Lexington	KY	USA
+Derby City	Louisville	KY	USA
+BR, Big Raggedy, Red Stick	Baton Rouge	LA	USA
+NOLA, Big easy, Crescent City, Mardi Gras City	New Orleans	LA	USA
+BOS,Beantown	Boston	MA	USA
+Bmore, Mobtown, Charm City 	Baltimore	MD	USA
+GR, Furniture City	Grand Rapids	MI	USA
+Motown, Motor City, The D, The 313, Renaissance City, City of the Straits	Detroit	MI	USA
+MSP, City of Lakes, Mill City, Twin Cities, Mini Apple	Minneapolis	MN	USA
+STP, Pigs Eye, Saintly city, Twin Cities, St Paul	Saint Paul	MN	USA
+KC, KCMO, City of fountains, Heart of America, Paris of the plains	Kansas City	MO	USA
+STL, The Lou, Mound City	St. Louis	MO	USA
+GPT	Gulfport	MS	USA
+JNX, Chimneyville, City with Soul, Crossroads of the South	Jackson	MS	USA
+STRK, Stark-Vegas, StarkVegas	Starkville	MS	USA
+BZN, Bozone	Bozeman	MT	USA
+The Bull City	Durham	NC	USA
+City of Oaks	Raleigh	NC	USA
+CLT, Queen city, City of Trees, The Hornet's Nest	Charlotte	NC	USA
+The Boro, Gate City, Tournament Town	Greensboro	NC	USA
+Twin City, Winston, The Dash	Winston-Salem	NC	USA
+Star City	Lincoln	NE	USA
+OMA, Big O, Gateway to the West	Omaha	NE	USA
+Chilltow, Jungle City, America's Golden Door	Jersey City	NJ	USA
+NWK, Brick City	Newark	NJ	USA
+ABQ, Burque, The Q, Duke City	Albuquerque	NM	USA
+Sin City	Las Vegas	NV	USA
+Neon Babylon	Reno	NV	USA
+BUFF, Queen city, Nickel City	Buffalo	NY	USA
+NYC,Big Apple,bigapple, The City, Gotham, City That Never Sleeps	New York City	NY	USA
+AKR, Rubber City, City of Invention, Rubber Capital of the World	Akron	OH	USA
+CLE, Forest City, C-Town	Cleveland	OH	USA
+Cincy, Queen City,Queen of the West,Blue Chip City,City of Seven Hills,	Cincinnati	OH	USA
+CBUS, Discovery City,Arch City	Columbus	OH	USA
+Glass City, Frog Town	Toledo	OH	USA
+OKC, The Big Friendly, The 405	Oklahoma City	OK	USA
+TUL,Tulsey Town, The 918	Tulsa	OK	USA
+PDX, Rose City, City of Roses, P-Town	Portland	OR	USA
+PHL,Philly, Cradle of Liberty, City of Brotherly Love	Philadelphia	PA	USA
+PGH, Iron City, Steel City, The Burgh	Pittsburgh	PA	USA
+MEM,Bluff City, Blues City, The M	Memphis	TN	USA
+Nash, Cashville, Music City, Athens of the South	Nashville	TN	USA
+AMA	Amarillo	TX	USA
+ATX,Bat city	Austin	TX	USA
+Texas Riviera, Sparkling City by the Sea, The Real Windy City	Corpus Christi	TX	USA
+DFW,Big D, D-Town	Dallas	TX	USA
+ELP,Sun City	El Paso	TX	USA
+Cowtown	Fort Worth	TX	USA
+IAH,HOU,H-Town,Bayou City	Houston	TX	USA
+LRD,956	Laredo	TX	USA
+LBB	Lubbock	TX	USA
+SAT, S.A., Alamo City, San Antone, Countdown City, The Tone	San Antonio	TX	USA
+SLC	Salt Lake City	UT	USA
+ARL	Arlington	VA	USA
+RVA	Richmond	VA	USA
+VB, Neptune City, The Resort City	Virginia Beach	VA	USA
+NORVA	Norfolk	VA	USA
+SEA, Emerald City, Jet City, Rain City	Seattle	WA	USA
+SPO, Lilac City	Spokane	WA	USA
+MAD, madtown, Mad City	Madison	WI	USA
+MKE, Mil-town, The Mil, Cream City, Miltown	Milwaukee	WI	USA
+ADL	Adelaide		AUS
+MEL, Melb, Melbs	Melbourne		AUS
+Syd	Sydney		AUS
+VAN, Raincouver, Vancity, Wet Coast	Vancouver	BC	CAN
+OTT, Bytown	Ottawa	ON	CAN
+TO,T.O., T-Dot, Hogtown	Toronto	ON	CAN
+MTL	Montreal	QC	CAN
+CPH, City of Spires	Copenhagen		Denmark
+PAR, Paname, City of Lights, Pantruche	Paris		France
+TYO	Tokyo		Japan
+AMS	Amsterdam		Netherlands
+MSK	Moscow		Russia
+SPB, Leningrad, St. Petersburg	Saint Petersburg		Russia
+SING, SG, Lion City	Singapore		Singapore
+BCN, Barna, City of Counts	Barcelona		Spain
+MAD	Madrid		Spain
+BIRM, Brum, Brummagem	Birmingham		UK
+CAMB, Silicon Fen	Cambridge		UK
+EDI, Edinb, Edina, Auld Reekie	Edinburgh		UK
+LDN, LNDO, LNDN	London		UK
+MAN, Manny, Madchester, Cottonopolis	Manchester		UK
+NOTM	Nottingham		UK
