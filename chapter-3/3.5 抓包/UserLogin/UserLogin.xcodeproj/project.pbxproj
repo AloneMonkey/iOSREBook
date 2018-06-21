@@ -396,7 +396,7 @@
 		8C2F1A981F2351A500DA2AAC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = 9XQEPG2J2J;
+				DEVELOPMENT_TEAM = AUM2E6FK73;
 				INFOPLIST_FILE = UserLogin/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -409,7 +409,7 @@
 		8C2F1A991F2351A500DA2AAC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = 9XQEPG2J2J;
+				DEVELOPMENT_TEAM = AUM2E6FK73;
 				INFOPLIST_FILE = UserLogin/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
