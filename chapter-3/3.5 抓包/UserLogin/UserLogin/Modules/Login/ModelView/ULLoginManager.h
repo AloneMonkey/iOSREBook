@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-#define URL_BASE @"http://192.168.2.192:8000"
+#define URL_BASE @"http://192.168.1.103:8000"
 
 #define SOCKET_IP @"192.168.2.192"
 #define SOCKET_PORT 6666

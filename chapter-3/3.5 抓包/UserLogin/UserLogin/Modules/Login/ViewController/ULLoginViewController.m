@@ -59,31 +59,36 @@
 
 - (void)viewWillLayoutSubviews {
     [super viewWillLayoutSubviews];
-    
-    _userNameInputView.middleX = self.view.width / 2;
+
+    [self setupLayout];
+}
+
+#pragma mark - layout
+- (void)setupLayout {
     _userNameInputView.width = 285;
     _userNameInputView.height = 45;
+    _userNameInputView.middleX = self.view.width / 2;
     _userNameInputView.y = 160;
-    
-    _passWordInputView.middleX = _userNameInputView.middleX;
+
     _passWordInputView.width = _userNameInputView.width;
     _passWordInputView.height = _userNameInputView.height;
+    _passWordInputView.middleX = _userNameInputView.middleX;
     _passWordInputView.y = _userNameInputView.bottom + 10;
-    
+
     _loginLoadingIcon.middleY = _loginButton.middleY;
     _loginLoadingIcon.x = _loginButton.middleX - 65;
     _loginLoadingIcon.size = CGSizeMake(19, 19);
-    
+
     _getLoginButton.x = _passWordInputView.x;
     _getLoginButton.y = _passWordInputView.bottom + 17;
     _getLoginButton.width = (_passWordInputView.width - 20) / 2;
     _getLoginButton.height = _passWordInputView.height;
-    
+
     _postLoginButton.x = _getLoginButton.tail + 20;
     _postLoginButton.y = _passWordInputView.bottom + 17;
     _postLoginButton.width = (_passWordInputView.width - 20) / 2;
     _postLoginButton.height = _passWordInputView.height;
-    
+
     _loginButton.x = _passWordInputView.x;
     _loginButton.y = _getLoginButton.bottom + 20;
     _loginButton.width = _passWordInputView.width;
