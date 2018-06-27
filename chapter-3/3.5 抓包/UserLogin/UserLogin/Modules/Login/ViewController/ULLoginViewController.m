@@ -60,14 +60,14 @@
 - (void)viewWillLayoutSubviews {
     [super viewWillLayoutSubviews];
     
-    _userNameInputView.middleX = self.view.width / 2;
     _userNameInputView.width = 285;
     _userNameInputView.height = 45;
+    _userNameInputView.middleX = self.view.width / 2;
     _userNameInputView.y = 160;
     
-    _passWordInputView.middleX = _userNameInputView.middleX;
     _passWordInputView.width = _userNameInputView.width;
     _passWordInputView.height = _userNameInputView.height;
+    _passWordInputView.middleX = _userNameInputView.middleX;
     _passWordInputView.y = _userNameInputView.bottom + 10;
     
     _loginLoadingIcon.middleY = _loginButton.middleY;
